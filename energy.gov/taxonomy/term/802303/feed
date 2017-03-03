@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://energy.gov"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Department of Energy - Open Data</title>
+ <link>https://energy.gov/taxonomy/term/802303</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Open Data Catalogue</title>
+ <link>https://energy.gov/data/downloads/open-data-catalogue</link>
+ <description>&lt;a href=&quot;/data/downloads/open-data-catalogue&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;Open Data Catalogue&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;The files below contain the Public Data Listing for the Department of Energy in .JSON format. The Public Data Listing is a machine-readable list of all the publically available datasets maintained by the Department and its program and staff offices.&lt;/p&gt;
+&lt;p&gt;The Public Data Listing is part of the Department&#039;s &lt;a href=&quot;/data/articles/digital-strategy&quot;&gt;Digital Strategy&lt;/a&gt; and commitment to making &lt;a href=&quot;/data/open-energy-data&quot;&gt;data&lt;/a&gt; available and accessible.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2017/02/f34/doe-pdl-2-23-2017_0.xlsx&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/x-office-spreadsheet.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;doe-pdl-2-23-2017.xlsx&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(573.89 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;div  class=&quot;field-item even&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2017/02/f34/doe-pdl-2-23-2017.json&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-octet-stream.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;doe-pdl-2-23-2017.json&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(5.22 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Feb 2017 17:33:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">596021 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Energy on a Sphere</title>
+ <link>https://energy.gov/articles/energy-sphere</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;The Energy Department is tapping into Science On a Sphere -- a new tool developed by the National Oceanic and Atmospheric Administration -- to display renewable energy visualizations at museums and science technology centers worldwide.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 21 Aug 2015 14:15:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1193556 at https://energy.gov</guid>
+</item>
+<item>
+ <title>First-Ever Energy Open Data Roundtable Catalyzes Value of Big Data Revolution for Energy Sector</title>
+ <link>https://energy.gov/eere/articles/first-ever-energy-open-data-roundtable-catalyzes-value-big-data-revolution-energy</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;To further unlock the value of its data for public good, the U.S. Department of Energy co-sponsored its first-ever Energy Open Data Roundtable with the Center for Open Data Enterprise on April 29 in Washington, D.C. The Energy Roundtable convened approximately 60 energy data leaders, including participants from the White House, other federal agencies, national laboratories, non-profit organizations, and private industry.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 May 2015 19:10:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1054426 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Find Energy Incentives Quicker and Easier with DSIRE Open Data and Website</title>
+ <link>https://energy.gov/eere/articles/find-energy-incentives-quicker-and-easier-dsire-open-data-and-website</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;Updated Database of State Incentives for Renewables &amp;amp; Efficiency includes expanded data accessibility, a new Application Program Interface, interactive maps, and enhanced search.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 03 Mar 2015 21:16:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1025106 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Energy Innovation: Green Button Initiative Empowering Americans to Save Energy and Money</title>
+ <link>https://energy.gov/eere/articles/energy-innovation-green-button-initiative-empowering-americans-save-energy-and-money</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;Saving energy benefits both the environment and your wallet. However, before determining which energy-saving strategies and solutions to implement, it’s important to first understand how much energy you consume on a day-to-day basis. To empower residents to make well-informed energy decisions, private and public sector organizations united to establish the Green Button initiative.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 25 Feb 2015 22:45:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1022581 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Calling All Coders: Help Advance America&#039;s Wave Power Industry</title>
+ <link>https://energy.gov/eere/water/articles/calling-all-coders-help-advance-americas-wave-power-industry</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;The second round of coding competition kicks off that will help industry develop models and tools that improve the design, development, and optimization of marine and hydrokinetic devices.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 04 Aug 2014 21:47:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">778361 at https://energy.gov</guid>
+</item>
+<item>
+ <title>U.S. Department of Energy Increases Access to Results of DOE-funded Scientific Research</title>
+ <link>https://energy.gov/articles/us-department-energy-increases-access-results-doe-funded-scientific-research</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;The U.S. Department of Energy has launched PAGES, an online resource to increase access to scholarly publications and digital data resulting from Department-funded research.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 04 Aug 2014 14:49:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">942236 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Think Outside the Box During Our Open Data by Design Contest</title>
+ <link>https://energy.gov/data/articles/think-outside-box-during-our-open-data-design-contest</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;Today, we are pleased to announce the launch of the third contest in our year-long &lt;a href=&quot;http://energychallenge.energy.gov/&quot;&gt;American Energy Data Challenge&lt;/a&gt; initiative.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 09 Jun 2014 13:38:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">919931 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Open Government Plan 3.0</title>
+ <link>https://energy.gov/downloads/open-government-plan-30</link>
+ <description>&lt;a href=&quot;/downloads/open-government-plan-30&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;Open Government Plan 3.0&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;The Energy Department is committed to President Obama’s mandate to make the federal government more open and accessible to the American people. The Department continues to build on the initiatives it outlined in the first two iterations of the Open Government Plan and strives to be a leader in the Open Government movement.&lt;/p&gt;
+&lt;p&gt;In the last two years since the release of the Open Government Plan 2.0, the Department has achieved some significant milestones to advance the Open Government goals of transparency, participation and collaboration -- from expanding access to its wealth of data resources, to hosting challenges and hackathons to encourage the development of new tools and applications, to streamlining and transforming the ways we interact with stakeholders, public officials, government partners, and the general public.&lt;/p&gt;
+&lt;p&gt;This updated plan shows how the Open Government values of transparency, participation and collaboration have become standard operating procedure at the Energy Department. From major initiatives to iterative improvements, offices throughout the Department are making Open Government values part of every conversation.&lt;/p&gt;
+&lt;p&gt;While the Energy Department has made great steps forward over the last years, the work is never totally complete. Building and encouraging a culture of openness is how we build a more efficient, effective, and engaged Department of Energy.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2014/06/f16/Dept_of_Energy_Open_Govt_Plan_3.0.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;Department of Energy Open Government Plan 3.0 (released June 1, 2014)&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(889.93 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 02 Jun 2014 16:20:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">918551 at https://energy.gov</guid>
+</item>
+<item>
+ <title>Slideshow from the White House Energy Datapalooza</title>
+ <link>https://energy.gov/articles/slideshow-white-house-energy-datapalooza</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;Go behind the scenes of the Energy Datapalooza to see how entrepreneurs and government are working together to empower consumers and save energy.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 28 May 2014 22:07:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">917566 at https://energy.gov</guid>
+</item>
+</channel>
+</rss>

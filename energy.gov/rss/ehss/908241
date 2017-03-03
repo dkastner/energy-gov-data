@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://energy.gov"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Approved DOE Technical Standards</title>
+ <link>https://energy.gov/rss/ehss/908241</link>
+ <description>Approved DOE Technical Standards</description>
+ <language>en</language>
+<item>
+ <title>DOE-HDBK-1221-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-hdbk-1221-2016-0</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-hdbk-1221-2016-0&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-HDBK-1221-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;January 2017&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Suspect/Counterfeit Items Resource Handbook&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;Change Notice 1&lt;/h5&gt;
+&lt;p&gt;This Handbook provides information to assist the Department of Energy (DOE) sites in preventing suspect/counterfeit (S/CI) items from entering the DOE complex. Specifically, it provides information on identifying, reporting, and dispositioning S/CIs.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2017/01/f34/DOE-HDBK-1221-2016_CN1.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-HDBK-1221-2016, Change Notice 1, Suspect/Counterfeit Items Resource Handbook&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(3.99 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 18 Jan 2017 19:33:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2246617 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-HDBK-1046-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-hdbk-1046-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-hdbk-1046-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-HDBK-1046-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Temporary Emergency Exposure Limits for Chemicals: Method and Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This document describes why TEELs are needed, their role in emergency planning in DOE, the history of their development, and the methods by which they are developed. TEEL values are developed by a team of chemists/toxicologists established by DOE Headquarters. This is the second publication of the DOE Handbook describing TEELs.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2017/01/f34/DOE-HDBK-1046-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-HDBK-1046-2016, Temporary Emergency Exposure Limits for Chemicals: Method and Practice&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(587.88 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Jan 2017 12:30:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2232249 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1020-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1020-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1020-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1020-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Natural Phenomena Hazards Analysis and Design Criteria for Department of Energy Facilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Department of Energy (DOE) Standard (STD) 1020-2016 has three purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide criteria and guidance for meeting the natural phenomena hazard (NPH) requirements of DOE Order (O) 420.1C, Chg. 1, Facility Safety;&lt;/li&gt;
+&lt;li&gt;Ensure that structures, systems, and components (SSCs) in DOE facilities will perform assigned safety functions during and after design basis NPH events; and&lt;/li&gt;
+&lt;li&gt; Provide requirements and guidance in the use of industry building codes and voluntary consensus standards in meeting NPH requirements.&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2017/01/f34/DOE-STD-1020-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1020-2016, Natural Phenomena Hazards Analysis and Design Criteria for DOE Facilities&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(491.69 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Jan 2017 14:56:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2232025 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1073-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1073-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1073-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1073-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Configuration Management&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Standard provides the criteria and objectives for developing a configuration management (CM) process for design, construction, operation, and post-operation of a DOE facility or activity. It also includes examples and methods for achieving those criteria and objectives. The criteria and objectives presented in this Standard are based on industry practice and CM experience at DOE facilities.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/12/f34/DOE-STD-1073-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1073-2016, Configuration Management&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(701.57 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 23 Dec 2016 15:19:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2207901 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1066-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1066-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1066-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1066-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fire Protection    &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this Standard is to facilitate implementation of Department of Energy (DOE) Order (O), 420.1C, Facility Safety, by providing criteria and guidance for a standard and acceptable approach to meet the DOE O 420.1C requirements for fire protection programs (FPPs). This Standard addresses special or unique fire protection issues at DOE facilities that are not comprehensively or adequately addressed in national consensus standards or other design criteria.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/12/f34/DOE-STD-1066-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1066-2016, Fire Protection&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(1.47 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 22 Dec 2016 16:32:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2207325 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1189-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1189-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1189-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1189-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Integration Of Safety Into the Design Process&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Standard (STD) provides requirements and guidance for the integration of safety into the design process for Department of Energy (DOE) Hazard Category (HC) 1, 2, and 3 nuclear facilities as defined in 10 Code of Federal Regulations (CFR) Part 830, Nuclear Safety Management. This Standard specifies the requirements and responsibilities for project management, engineering/design, and safety analysis, and their interactions essential for successful integration of safety into design and construction. The Standard also specifies the engineering and design process, as well as key interfaces required for the integration of safety into design.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/12/f34/DOE-STD-1189-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1189-2016, Integration Of Safety Into the Design Process&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(1.71 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 22 Dec 2016 16:22:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2207321 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1104-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1104-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1104-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1104-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Review and Approval of Nuclear Facility Safety Basis and Safety Design Basis Documents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Standard describes a framework and the criteria to be used for approval of (1) safety basis documents, as required by 10 Code of Federal Regulation (CFR) Part 830, Nuclear Safety Management, and (2) safety design basis documents, as required by Department of Energy (DOE) Standard (STD)-1189-2016, Integration of Safety into the Design Process.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/12/f34/DOE-STD-1104-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1104-2016, Review and Approval of Nuclear Facility Safety Basis and Safety Design Basis Document&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(474.85 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 21 Dec 2016 14:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2207245 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1186-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1186-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1186-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1186-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;December 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specific Administrative Controls&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Standard provides requirements and guidance on acceptable methods for developing and implementing Specific Administrative Controls (SACs) at nuclear facilities operated by the Department of Energy (DOE).&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/12/f34/DOE-STD-1186-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1186-2016, Specific Administrative Controls &lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(328.95 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 16 Dec 2016 15:11:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2194798 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1183-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1183-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1183-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1183-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;October 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nuclear Safety Specialist Functional Area Qualification Standard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Nuclear Safety Specialist Functional Area Qualification Standard (FAQS) establishes common performance competencies for all DOE Nuclear Safety Specialist personnel who provide assistance, direction, guidance, oversight, or evaluation of contractor technical activities that could impact the safe operation of DOE’s defense nuclear facilities.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/10/f33/DOE-STD-1183-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1183-2016, Nuclear Safety Specialist Functional Area Qualification Standard&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(325 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Oct 2016 19:18:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2104843 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-HDBK-7251-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-hdbk-7251-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-hdbk-7251-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-HDBK-7251-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;September 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fleet Management&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Handbook addresses the life cycle management of motor vehicles (including passenger, special purpose, experimental, law enforcement), motor equipment and watercraft.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/09/f33/DOE-HDBK-7251-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-HDBK-7251-2016, Fleet Management&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(1.91 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 29 Sep 2016 13:25:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2066610 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-HDBK-1223-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-hdbk-1223-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-hdbk-1223-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-HDBK-1223-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;September 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Classified Matter Protection and Control Handbook&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This handbook is not intended to replace DOE Order 471.6, Information Security, other departmental rules, plans or processes or national directives. This handbook describes one way to fulfill requirements for Classified Matter Protection and Control (CMPC) within DOE.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/09/f33/DOE-HDBK-1223-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-HDBK-1223-2016, Classified Matter Protection and Control Handbook&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(4.68 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 13 Sep 2016 11:53:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2041022 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-NA-STD-3016-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-na-std-3016-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-na-std-3016-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-NA-STD-3016-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;September 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hazard Analysis Reports for Nuclear Explosive Operations&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;Superseding DOE-NA-STD-3016-2006&lt;/h5&gt;
+&lt;p&gt;The purpose of this Technical Standard is to define requirements and guidance for preparing HARs for NEOs in accordance with 10 C.F.R. Part 830.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/09/f33/DOE-NA-STD-3016-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-NA-STD-3016-2016, Hazard Analysis Reports for Nuclear Explosive Operations&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(255.64 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Sep 2016 12:34:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2026702 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1149-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1149-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1149-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1149-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;August 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Safety and Health Program for DOE Construction Projects&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;Superseding DOE-STD-1149-2002&lt;/h5&gt;
+&lt;p&gt;This Standard provides a framework for a construction safety program for use on DOE construction projects that will comply with the requirements of title 10, Code of Federal Regulations, part 851 (10 CFR 851); DOE Order (O)440.1B, Worker Protection Program for DOE (Including the National Nuclear Security Administration) Federal Employees, and would be consistent with its accompanying Guide (G), DOE G 440.1‐1B, Worker Safety and Health Program for DOE (Including the National Nuclear Security Administration) Federal and Contractor Employees, and DOE Policy (P) 450.4A, Integrated Safety Management Policy.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/09/f33/DOE-STD-1149-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1149-2016, Safety and Health Program for DOE Construction Projects&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(319.84 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Sep 2016 12:18:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">2026698 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1112-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1112-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1112-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1112-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;June, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Accreditation Program for Radiobioassay&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This technical standard describes the U.S. Department of Energy Laboratory Accreditation Program (DOELAP) for Radiobioassay, for use by the U.S. Department of Energy (DOE) and DOE Contractor radiobioassay programs.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/07/f33/DOE-STD-1112-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1112-2016, Laboratory Accreditation Program for Radiobioassay, June 2016&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(164.68 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 07 Jul 2016 14:11:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1891951 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-6004-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-6004-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-6004-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-6004-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;March 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clearance and Release of Personal Property From Accelerator Facilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this Standard is to provide Department of Energy (DOE) accelerator facilities or modules thereof an acceptable approach for managing and dispositioning personal property that may be radiologically impacted (mainly by activation) by accelerator operations. This Standard facilitates implementation of requirements in DOE Order 458.1 Radiation Protection of the Public and the Environment (hereafter O458.1 or the Order) [DOE2013], by providing criteria and guidance for DOE accelerator facilities to develop and implement site-specific programs (including management, technical, and operational aspects) for the radiological clearance and release of personal property.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/05/f31/DOE-STD-%206004-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-6004-2016, Clearance and Release of Personal Property From Accelerator Facilities&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(1.7 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 May 2016 14:42:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1773406 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1026-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1026-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1026-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1026-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;April 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NNSA Package Certification Engineer Functional Area Qualification Standard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The NNSA Package Certification Engineer Functional Area Qualification Standard (FAQS)establishes common functional area competency requirements for all NNSA Package Certification Engineers who provide assistance, direction, guidance, oversight, or evaluation of contractor technical activities that could impact the safe operation of NNSA packaging and transportation activities.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/05/f31/DOE-STD-1026-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1026-2016, NNSA Package Certification Engineer Functional Area Qualification Standard&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(343.65 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 May 2016 14:07:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1773401 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1219-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1219-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1219-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1219-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;May 12, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Analysis and Evaluation of the Operability and Reliability of the Intrusion Detection and Assessment Systems&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This standard provides an understandable process and methodology of the analysis and evaluation sites should consider conducting as required by Department of Energy (DOE) Order (O) 473.3A, Attachment 3, Section A, Chapter IX, 1.i.(1). In addition, the intent of this standard addresses the protective force equipment needs as outlined by DOE O 473.3A Appendix A, Section C, 2. Equipment and Attachment 2, Section C.3. Equipment.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/05/f31/DOE-STD-1219-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1120-2016, Analysis and Evaluation of the Operability and Reliability of the Intrusion Detection and Assessment Systems &lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(678.17 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 May 2016 13:50:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1758541 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1120-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1120-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1120-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1120-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;March 15, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preparation of Documented Safety Analysis for Decommissioning and Environmental Restoration Activities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Department of Energy (DOE) Standard (STD), DOE-STD-1120-2016, describes a methodology for preparing a Documented Safety Analysis (DSA) for decommissioning of hazard category (HC) 1, 2, or 3 nuclear facilities, as well as HC-2 or HC-3 environmental restoration (ER) activities that involve work not done within a permanent structure or the decommissioning of a facility with only low-level residual fixed radioactivity.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/03/f30/DOE-STD-1120-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1120-2016, Preparation of Documented Safety Analysis for Decommissioning and Environmental Restoration Activities&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(348.01 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Mar 2016 18:32:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1645006 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1217-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1217-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1217-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1217-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;February 24, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Safeguards and Security Survey and Self-Assessment Planning, Conduct, and Reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This document provides the Department of Energy (DOE) with a standard methodology for adapting the Department’s requirements for Safeguards and Security (S&amp;amp;S) surveys and self-assessments to organization-specific needs in a coherent, consistent, and repeatable fashion. It describes a consistent and acceptable approach to planning, conducting, and reporting the results for S&amp;amp;S surveys and self-assessments.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/02/f30/DOE-STD-1217-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1217-2016, Safeguards and Security Survey and Self-Assessment Planning, Conduct, and Reporting&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(1.08 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Feb 2016 13:19:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1623916 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-3011-2016</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-3011-2016</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-3011-2016&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-3011-2016&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;January 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preparation of documented Safety Analysis for interim operations at DOE nuclear Facilities&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;Superseding DOE-STD-3011-2002 (January 2002)&lt;/h5&gt;
+&lt;p&gt;This Department of Energy (DOE) Standard (STD), DOE-STD-3011-2016, describes a method for preparing a Documented Safety Analysis (DSA) for interim operations that is acceptable to DOE for hazard category (HC) 1, 2, or 3 nuclear facilities as set forth in Table 2 of Appendix A to Title 10 of the Code of Federal Regulations (C.F.R.) Part 830, Nuclear Safety Management, Subpart B, Safety Basis Requirements.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2016/01/f28/DOE-STD-3011-2016.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-3011-2016, Preparation of documented Safety Analysis for interim operations at DOE nuclear Facilities&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(247.13 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 Jan 2016 13:55:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1545301 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-HDBK-3012-2015</title>
+ <link>https://energy.gov/ehss/downloads/doe-hdbk-3012-2015</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-hdbk-3012-2015&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-HDBK-3012-2015&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;November 24, 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Team Leader’s Good Practices For Readiness Reviews&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;SUPERSEDING DOE-HDBK-3012-2003&lt;/h5&gt;
+&lt;p&gt;This Handbook provides instructions, explanations and examples for the performance of all phases of a Readiness Review (RR) to verify readiness to start or restart nuclear facilities, operations, and activities.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2015/11/f27/DOE-HDBK-3012-2015.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-HDBK-3012-2015, Team Leader’s Good Practices For Readiness Reviews&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(217.74 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 Nov 2015 19:27:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1413526 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1207-2012</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1207-2012-0</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1207-2012-0&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1207-2012&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;September 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protection Program Defensive Planning For Fixed Facilities&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;Change Notice 1 (September 2015)&lt;/h5&gt;
+&lt;p&gt;This document provides Department of Energy (DOE) field offices and associated facilities/sites with a standard methodology for adapting the Department’s tactical doctrine to site-specific needs in a coherent, consistent, and repeatable fashion. The purpose of this Technical Standard is to provide site/facility operators with an accepted compliance-based process to develop site specific protection strategies to meet protection program policy objectives for implementation of the tactical doctrine contained in DOE O 470.4B.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2015/09/f26/DOE-STD-1207-2012_CN1.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1207-2012, Protection Programming Defensive Planning for Fixed Facilities &lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(1.16 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Sep 2015 19:28:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1246761 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1213-2014</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1213-2014</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1213-2014&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1213-2014&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;September 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protective Force Contingency Planning Technical Standard&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;strong&gt;Change Notice 1 (September 2015)&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;This Technical Standard outlines the responsibilities, planning considerations, training,management oversight, and other activities related to establishment of a Contingency Protective Force.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2015/09/f26/DOE-STD-1213-2014_CN1.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1213-2014, Protective Force Contingency Planning Technical Standard&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(373.56 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Sep 2015 14:49:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1246686 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1129-2015</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1129-2015</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1129-2015&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1129-2015&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;September 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tritium Handling and Safe Storage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Standard provides useful information for establishing processes and procedures for the receipt, storage, assay, handling, packaging, and shipping of tritium and tritiated wastes. It includes discussions and advice on compliance‐based issues and adds insight to those areas in which DOE guidance is unclear. It is intended to be a “living document” that is revised periodically.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2015/09/f26/DOE-STD-1129-2015.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1129-2015, Tritium Handling and Safe Storage&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(3.39 MB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 16 Sep 2015 14:33:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1245681 at https://energy.gov</guid>
+</item>
+<item>
+ <title>DOE-STD-1083-2009</title>
+ <link>https://energy.gov/ehss/downloads/doe-std-1083-2009-0</link>
+ <description>&lt;a href=&quot;/ehss/downloads/doe-std-1083-2009-0&quot; class=&quot;title-link&quot;&gt;&lt;span&gt;DOE-STD-1083-2009&lt;/span&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;August 14, 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Processing Exemptions to Nuclear Safety Rules and Approval of Alternative Methods for Documented Safety Analyses&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;Reaffirmation 2015&lt;/h5&gt;
+&lt;p&gt;DOE may grant temporary or permanent exemptions from its nuclear safety requirements in rules provided that the provisions of 10 C.F.R. Part 820, Subpart E, &quot;&quot;Exemption Relief,&quot;&quot; are met. The provisions of 10 C.F.R. Part 820 state that the Secretarial Officer (defined in 10 C.F.R. Part 820) shall utilize any procedures deemed necessary and appropriate to comply with the exemption responsibilities. This Standard establishes acceptable procedures that may be used to request and grant exemptions to DOE nuclear safety rules in accordance with 10 C.F.R. Part 820.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-download-files field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  class=&quot;field-item odd&quot;&gt;&lt;a class=&quot;media-link-wrapper&quot; href=&quot;https://energy.gov/sites/prod/files/2015/08/f25/DOE-STD-1083-2009_Reaffirmed_2015.pdf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;filename&quot;&gt;DOE-STD-1083-2009, Processing Exemptions to Nuclear Safety Rules and Approval of Alternative Methods for Documented Safety Analyses&lt;/span&gt; &lt;span class=&quot;filesize&quot;&gt;(90.94 KB)&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Aug 2015 18:42:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1176796 at https://energy.gov</guid>
+</item>
+</channel>
+</rss>
