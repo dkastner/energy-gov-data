@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://energy.gov"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>JC3</title>
+ <link>https://energy.gov/cio/incident-management/jc3-bulletin-archive</link>
+ <description>Office of the Chief Information Officer 1000 Independence Ave., SW Washington, DC 202-586-0166</description>
+ <language>en</language>
+<item>
+ <title>V-237: TYPO3 Security Bypass Vulnerabilities</title>
+ <link>https://energy.gov/cio/articles/v-237-typo3-security-bypass-vulnerabilities</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;TYPO3 comes with the possibility to restrict editors to certain file actions (copy, delete, move etc.) and to restrict these actions to be performed in certain locations&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 09 Sep 2013 10:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">717571 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-236:  MediaWiki CentralAuth Extension Authentication Bypass Vulnerability</title>
+ <link>https://energy.gov/cio/articles/v-236-mediawiki-centralauth-extension-authentication-bypass-vulnerability</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;A vulnerability has been reported in the CentralAuth extension for MediaWik that allows people to bypass certain security restrictions&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Sep 2013 08:36:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">717416 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-235:  Cisco Mobility Services Engine Configuration Error Lets Remote Users Login Anonymously </title>
+ <link>https://energy.gov/cio/articles/v-235-cisco-mobility-services-engine-configuration-error-lets-remote-users-login</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;A vulnerability was reported in Cisco Mobility Services Engine where a remote user can login anonymously.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Sep 2013 04:33:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">717271 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-234: EMC RSA Archer GRC Open Redirection Weakness and Security Bypass Security Issue</title>
+ <link>https://energy.gov/cio/articles/v-234-emc-rsa-archer-grc-open-redirection-weakness-and-security-bypass-security-issue</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;This fixes multiple vulnerabilities, which can be exploited to bypass certain security restrictions and to conduct spoofing attacks&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 04 Sep 2013 10:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">717106 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-233:  Red Hat update for JBoss Fuse</title>
+ <link>https://energy.gov/cio/articles/v-233-red-hat-update-jboss-fuse</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;This fixes multiple vulnerabilities, which can be exploited by malicious people to bypass certain security restrictions and cause a DoS.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 03 Sep 2013 10:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">717031 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-232: Cisco ASA Software TFTP Protocol Inspection Denial of Service Vulnerability</title>
+ <link>https://energy.gov/cio/articles/v-232-cisco-asa-software-tftp-protocol-inspection-denial-service-vulnerability</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;A vulnerability has been reported in Cisco ASA Software&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 31 Aug 2013 08:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">717026 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-231: Cisco Identity Services Engine Discloses Authentication Credentials to Remote Users</title>
+ <link>https://energy.gov/cio/articles/v-231-cisco-identity-services-engine-discloses-authentication-credentials-remote-users</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;A vulnerability was reported in Cisco Identity Services Engine.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 30 Aug 2013 07:01:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">716876 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-230: IBM TRIRIGA Application Platform Multiple Cross-Site Scripting Vulnerabilities</title>
+ <link>https://energy.gov/cio/articles/v-230-ibm-tririga-application-platform-multiple-cross-site-scripting-vulnerabilities</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;Multiple vulnerabilities have been reported in IBM TRIRIGA Application Platform&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 29 Aug 2013 08:10:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">716726 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-229:    IBM Lotus iNotes Input Validation Flaws Permit Cross-Site Scripting Attacks </title>
+ <link>https://energy.gov/cio/articles/v-229-ibm-lotus-inotes-input-validation-flaws-permit-cross-site-scripting-attacks</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;IBM Lotus iNotes 8.5.x contains four cross-site scripting vulnerabilities&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 28 Aug 2013 10:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">716536 at https://energy.gov</guid>
+</item>
+<item>
+ <title>V-228:   RealPlayer Buffer Overflow and Memory Corruption Error Let Remote Users Execute Arbitrary Code</title>
+ <link>https://energy.gov/cio/articles/v-228-realplayer-buffer-overflow-and-memory-corruption-error-let-remote-users-execute</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div  property=&quot;content:encoded&quot; class=&quot;field-item odd&quot;&gt; &lt;p&gt;A remote user can cause arbitrary code to be executed on the target user&#039;s system&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 27 Aug 2013 10:00:00 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">716381 at https://energy.gov</guid>
+</item>
+</channel>
+</rss>

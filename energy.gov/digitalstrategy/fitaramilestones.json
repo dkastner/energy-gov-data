@@ -1,0 +1,316 @@
+{
+	"updatedDate": "2016/11/28",
+	"milestones": [{
+		"milestoneID": 1,
+		"milestoneDesc": "The Department has refined the Program Budget Planning and Execution (PPBE) process and instructions to include the CAO and CIO early in the initial decision processes to drive the decisions for annual and multi-year planning, programming and budgeting.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The CFO distributed the FY 2018 OMB Budget Planning Guidance memorandum on 7/13/2016 which states that the CIO will review and approve IT budget proposals before submission to CFO. The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. Updates to Order 200.1A, Information Technology Management, have been submitted to the Directives Review Board (DRB) for expedited review and approval.\n",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 2,
+		"milestoneDesc": "A new annual budget guidance memorandum will be issued by the Secretary by the end of June 2016. NNSA is and will continue to integrate with DOE’s PPBE and CPIC processes.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The CFO distributed the FY 2018 OMB Budget Planning Guidance memorandum on 7/13/2016 which states that the CIO will review and approve IT budget proposals before submission to CFO.\n",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 3,
+		"milestoneDesc": "DOE has refined its process to include the CFO, CAO, and CIO early in the initial planning of IT resources. Specifically, the CIO will review and approve program office budget requests before they are submitted to CFO, with a process for resolution with the Secretary of remaining issues.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The CFO distributed the FY 2018 OMB Budget Planning Guidance memorandum on 7/13/2016 stating that the CIO will review and approve IT budget proposals before submission to CFO. The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 4,
+		"milestoneDesc": "The CIO, CAO and CFO will develop additional guidance to enhance the role of the CIO in the early stages of the acquisition process through approval of statements of work and evaluation criteria for IT procurements.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It describes the enhanced role of the CIO in the Department's IT acquisitions process and directs the CIO, the Chief Acquisitions Officer, and NNSA’s CIO to develop a comprehensive IT acquisitions review process. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 5,
+		"milestoneDesc": "OCIO has and continues to refine its CPIC process to ensure appropriate estimates of all IT resources are included in the budget request. The CFO annual budget guidance memorandum will be updated to further clarify the role of the CIO in reviewing and approving the budget.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The CFO FY 2018 OMB Budget Planning Guidance memorandum on 7/13/2016 stated that the CIO will review and approve IT budget proposals before submission to CFO. FY 2018 CPIC guidance was aligned with the budget planning guidance. The Department’s Guide to IT CPIC is being updated. The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited approval. \n",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 6,
+		"milestoneDesc": "NNSA CIO will review and approve the NNSA major IT investments giving the DOE CIO an opportunity to review and provide input prior to the final decision. The IT investment is reported to DOE through the CPIC process.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It states that upon the NNSA Under Secretary’s submission of the NNSA budget to the CFO, the CIO will have an opportunity to review. NNSA reports its major IT investments through the CPIC process. NNSA uploaded its Major IT investments in eCPIC for DOE CIO review along with DOE's Major Investments and will continue to follow this process.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 7,
+		"milestoneDesc": "NNSA uses Future Years Nuclear Security Plan (FYNSP), which is NNSA’s PPBE process that constitutes programming effort, including budget formulation and planning. The annual FYNSP guidance provides opportunity for the DOE CIO to give input. The FYNSP is where NNSA defines the level of detail of reporting and related review processes.",
+		"milestoneTargetCompletionDate": "2017/03/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The CFO distributed the FY 2018 OMB Budget Planning Guidance memorandum on 7/13/2016 stating that the CIO will review and approve IT budget proposals before submission to CFO. The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It states that upon the NNSA Under Secretary’s submission of the NNSA budget to the CFO, the CIO will have an opportunity to review with recourse to the Secretary and Deputy Secretary for final disposition.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 8,
+		"milestoneDesc": "For all budget requests (including those made by NNSA), the CIO will evaluate and advise the Secretary on whether to continue, modify, or terminate any requests, as per the authorities granted the CIO under 40 U.S.C. 11315 (c)(2).  (Implemented as part of budget process)",
+		"milestoneTargetCompletionDate": "2017/03/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It states that the CIO will review and approve IT budget proposals before submission to the CFO, and underscores the authority granted  the CIO under 40 U.S.C. 11315 (c)(2). Any unresolved issues shall be presented to the Secretary and Deputy Secretary for final disposition. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited approval. ",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 9,
+		"milestoneDesc": "NNSA will invite the DOE CIO to participate in the NNSA Dash-1 Peer review of the program budget, which will include the appropriate budget-level descriptions of IT needs and budget requests.",
+		"milestoneTargetCompletionDate": "2017/06/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "NNSA OCIO is working with NA-MB and CEPE to revise the Business Operating Procedures for the PPBE process to include DOE CIO as a participant in the review process.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 10,
+		"milestoneDesc": "The annual budget guidance memorandum will specify agency-wide criteria for reporting IT planned expenditures.",
+		"milestoneTargetCompletionDate": "2016/06/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The CFO distributed the FY 2018 OMB Budget Planning Guidance memorandum on 7/13/2016. It included specific agency-wide criteria for reporting IT planned expenditures.",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 11,
+		"milestoneDesc": "DOE will utilize its Project Management Policies - DOE Order 415.1, and use DOE Order 413.3B, along with the DOE Guide to IT Capital Planning and Investment Control—updated to include collection of performance metrics (to include cyber) and integration with related CFO data collection—to ensure that the CIO in collaboration with Departmental Elements effectively manage and apply sound project management to all IT investments.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It directs the Department to revise DOE policies within 60 days. Updates to DOE Orders 415.1: Information Technology/Project Management, 413.3B: Program and Project Management for the Acquisition of Capital Assets, and 200.1A: Information Technology Management, have been submitted to the DRB for expedited review and approval.",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 12,
+		"milestoneDesc": "The largest projects will be reviewed by the Energy System Acquisition Advisory Board (ESAAB) on which the CIO participates as a full member. Small acquisitions will continue to follow their respective program office approval process, with the CIO or designee as a full participant, to include review through the IMGB. For all other acquisitions, the IMGB, with the CIO as chair, will convene as an Investment Review Board (IRB) to provide formal review and approval.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It adds the CIO to the ESAAB as a full member, includes the CIO or designee in program office approval processes followed by a review through the IMGB, and establishes an IRB. Updates to Order 413.3B Program and Project Management for the Acquisition of Capital Assets, have been submitted to the DRB for expedited review and approval. ",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 13,
+		"milestoneDesc": "NNSA follows guidance provided in current DOE and NNSA polices that define development processes and capital planning and project management, and reporting for IT resource. NNSA OCIO will work with DOE CIO to update these policies as needed.",
+		"milestoneTargetCompletionDate": "2016/12/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "NNSA continues to follow DOE Orders and Guidance. This milestone is dependent upon the successful completion of DOE's Milestone IDs # 4 & 11. Where applicable, NNSA will revise its supplemental directives (SD) associated with DOE Order 200.1A, Order 415.1, and Order 413.3B.",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 14,
+		"milestoneDesc": "The CFO will continue to notify and obtain CIO concurrence for any reprogramming of IT funds that require Congressional notification. This will be memorialized in an internal memorandum.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016 stating that Departmental elements will ensure that any proposed reprogramming of funds from IT projects are reviewed and approved by CIO before the Department submits the reprogramming request. NNSA CIO will have an opportunity to review IT reprogramming requests. Updates to Order 200.1A, Information Technology Management, have been submitted to the Directives Review Board (DRB) for approval. \n",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 15,
+		"milestoneDesc": "The NNSA has several policies managed by the NNSA budget office that detail the planning process for expenditures that includes IT. NNSA CIO will work with the CFO and CAO to update these policies to ensure they define the level of detail for planned expenditure reporting for all transactions that include IT resources.",
+		"milestoneTargetCompletionDate": "2017/03/31",
+		"milestoneStatus": "NotStarted",
+		"milestoneStatusDesc": "NNSA review and update of related policies is dependent upon the successful completion of Milestone ID #13.",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 16,
+		"milestoneDesc": "NNSA CIO has an established governance board identified as the ROC in which the CIO participates, which will be expanded to make it an NNSA enterprise-wide review board, and will allow for DOE CIO to provide input into NNSA acquisition decisions.",
+		"milestoneTargetCompletionDate": "2017/03/31",
+		"milestoneStatus": "NotStarted",
+		"milestoneStatusDesc": "NNSA review and update of related policies is dependent upon the successful completion of Milestone ID #13.",
+		"commonBaselineArea": "budgetExecution",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 17,
+		"milestoneDesc": "Based on collaboration among the CIO, CFO, CAO, and GC, DOE will issue additional guidance on contract actions requiring IT-related review and approval. This policy is being developed in collaboration with the Department’s Office of Acquisition Management. The Department will conduct internal checks and reviews to ensure compliance.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It describes the enhanced role of the CIO in the Department's IT acquisitions process and directs the CIO, the CAO, and NNSA’s CIO to develop a comprehensive IT acquisitions review process. Updates to Order 200.1A, Information Technology Management, have been submitted to the Directives Review Board (DRB) for approval. ",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 18,
+		"milestoneDesc": "The CAO will draft an Acquisition Letter (AL) that will require the use of existing Strategic Sourcing vehicles, including FSSI vehicles, or the submission of a “business case” when existing agreements are not used. The AL will reflect the implementation of the upcoming FAR Council rule. The AL, or similar appropriate document, will address other strategies that OFPP is developing around category management and the Government-wide Software Purchasing Program.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The Department distributed Policy Flash 2016-20 on 3/29/2016 to DOE/NNSA Procurement Directors/Heads of Contracting Activities on the requirements to use existing strategic sourcing agreements.  The memorandum provides guidance to Contracting Officers on the requirements to consider the use of existing Strategic Sourcing agreements prior to issuing a new contract, and encourages our M&O contractors to adopt a similar approach where appropriate.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 19,
+		"milestoneDesc": "NNSA CIO will manage the acquisition reviews and approvals of IT assets by working with the Office of Financial Management (NA-MB-30) to update current acquisition review and approval structure to ensure DOE CIO participates in NNSA program reviews.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It describes the enhanced role of the CIO in the Department's IT acquisitions process and directs the CIO, the Chief Acquisitions Officer, and NNSA’s CIO to develop a comprehensive IT acquisitions review process. This process will ensure DOE CIO participates in NNSA program reviews.\n",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 20,
+		"milestoneDesc": "NNSA OCIO will participate in the monthly management council meetings established by NNSA Principal Deputy Administrator on upcoming reprogramming needs and status of packages in process.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The NNSA Management Council Meeting occurs the first week of each month. NNSA OCIO is an active participant in these meetings.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 21,
+		"milestoneDesc": "NNSA OCIO will utilize DOE policies, procedures, and guidance where appropriate, and take advantage of strategic sourcing to the greatest extent possible.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "The Department distributed Policy Flash 2016-20 on 3/29/2016 to DOE/NNSA Procurement Directors/Heads of Contracting Activities on the requirements to use existing strategic sourcing agreements. The memorandum provides guidance to Contracting Officers on the requirements to consider the use of existing Strategic Sourcing agreements prior to issuing a new contract, and encourages our M&O contractors to adopt a similar approach where appropriate.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 22,
+		"milestoneDesc": "For acquisitions that require involvement of the NNSA OCIO, the DOE CIO will be invited to review and provide input prior to the NNSA CIO disposition.",
+		"milestoneTargetCompletionDate": "2017/03/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It describes the enhanced role of the CIO in the Department's IT acquisitions process and directs the CIO, the CAO, and NNSA’s CIO to develop a comprehensive IT acquisitions review process. This process will ensure DOE CIO participates in NNSA program reviews. Updated date from 9/30/2016 to 3/31/2017 as task was dependent upon IT Management Reform memorandum that was not issued until 10/21/2016.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 23,
+		"milestoneDesc": "As part of the FITARA implementation planning, Departmental elements will update their acquisition strategy processes to include the CIO or CIO representative in the review and approval of all acquisition plans.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It describes the enhanced role of the CIO in the Department's IT acquisitions process and directs program officers to include the CIO or designee in their approval processes followed by a review through the IMGB. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval. \n",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 24,
+		"milestoneDesc": "In order for the DOE CIO to review and approve contracts for IT in a manner that ensures a coordinated, transparent process, the Cyber Council identified the IMGB to develop an Enterprise approach that leverages existing acquisition processes to provide DOE CIO oversight into IT acquisitions. Under the Cyber Council’s direction, IMGB will function as an IRB for the review and approval of contracts for IT. DOE CIO chairs the IMGB and will participate in the IRB. ",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. It includes the CIO or designee in program office approval processes followed by a review through the IMGB, and establishes an IRB to review acquisitions not otherwise subject to CIO review or at the election of the CIO based on a risk assessment. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval. \n",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 25,
+		"milestoneDesc": "NNSA OCIO will coordinate with  NNSA Office of Acquisition and Project Management (NA-APM) to review and update a process to ensure acquisition plans that include IT are reviewed and approved by the NNSA OCIO with an opportunity for the DOE CIO to provide input prior to final disposition.",
+		"milestoneTargetCompletionDate": "2017/06/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "In support of the Departmental memorandum on Information Technology Management Reforms, NNSA OCIO and NNSA Office of Acquisition and Project Management are working to revise the business operating procedures to ensure the NNSA OCIO approves IT acquisitions with the DOE CIO providing input prior to final disposition. Updated date from 9/30/2016 to 6/30/2017 as task was dependent upon the IT Management Reform memorandum that was not issued until 10/21/2016.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 26,
+		"milestoneDesc": "Where appropriate, DOE will maximize opportunities for small business contracts as detailed in the DOE P 547.1, Small Business First Policy, issued December 14, 2012. (Implemented as part of DOE annual FITARA review).",
+		"milestoneTargetCompletionDate": "2017/12/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "OSDBU is a member of the FITARA Working Group and is involved in updating Departmental policies in alignment with FITARA requirements.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 27,
+		"milestoneDesc": "CAO, in consultation with CIO, will ensure acquisitions are led by personnel with appropriate federal acquisition certifications (FACs). (Implemented as part of DOE annual FITARA review).",
+		"milestoneTargetCompletionDate": "2017/12/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "Following the development of the comprehensive IT acquisitions review process, CAO will issue guidance specifying appropriate federal acquisitions certifications.",
+		"commonBaselineArea": "acquisition",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 28,
+		"milestoneDesc": "The CHCO, working collaboratively with CIO, has developed a memorandum that defines CIO involvement in the recruitment and selection process.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016 stating Departmental elements, including NNSA, obtain CIO approval prior to the appointment of, involve CIO in development of Technical Qualifications for selection and position descriptions for, and include CIO or designee on selection panels for staff with CIO duties. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval.",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 29,
+		"milestoneDesc": "CIO will be involved in the development of Technical Qualifications for selection and position descriptions for key bureau CIO positions. As appropriate, CIO will appoint an SES to the selection panel and/or to the interview panel for key bureau CIO positions who will meet with final candidate(s), and provide written recommendation(s) to the selecting official.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016 stating Departmental elements, including NNSA, obtain CIO approval prior to the appointment of, involve CIO in development of Technical Qualifications for selection and position descriptions for, and include CIO or designee on selection panels for staff with CIO duties. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval.\n",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 30,
+		"milestoneDesc": "CIO will provide input into the selection and ultimate approval of any future NNSA CIO assignments.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016 stating Departmental elements, including NNSA, obtain CIO approval prior to the appointment of, involve CIO in development of Technical Qualifications for selection and position descriptions for, and include CIO or designee on selection panels for staff with CIO duties. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval. \n",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 31,
+		"milestoneDesc": "If there is a gap between the departure of NNSA CIO and the hiring of a replacement, NNSA will assign an acting CIO to lead NNSA programs until a replacement is hired.",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "Complete",
+		"milestoneStatusDesc": "NNSA CIO position is the Associate Administrator for Information Management and the Chief Information Officer.  When vacated, a person assigned as acting in order to continue daily operations.",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 32,
+		"milestoneDesc": "The CIO will provide input to the annual performance reviews of designated “key Federal bureau CIOs” (SES and non-SES).",
+		"milestoneTargetCompletionDate": "2016/09/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. CIO and CHCO are working collaboratively to establish a memorandum to address this action. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval. ",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 33,
+		"milestoneDesc": "NNSA CIO will be evaluated similar to other key bureau CIOs. (Implemented as part of DOE annual FITARA review).",
+		"milestoneTargetCompletionDate": "2017/12/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "The Departmental memorandum on Information Technology Management Reforms was approved on 10/21/2016. CIO and CHCO are working collaboratively to establish a memorandum to address this action. Updates to Order 200.1A, Information Technology Management, have been submitted to the DRB for expedited review and approval. ",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 34,
+		"milestoneDesc": "(a) CHCO and CIO are working collaboratively to develop recruitment announcements and participate in all phases of workforce retention.  (b) DOE will continue measure employee development by using a weighted score of measures.  (c) DOE’s efforts should improve employee satisfaction and enhance the recruitment and retention of IT talent.  (Implemented as part of DOE annual FITARA review).",
+		"milestoneTargetCompletionDate": "2017/12/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "CIO and CHCO are working together to establish a memorandum to address this action. HC has established a shared service center (SSC) to service programs in the Under Secretary for Management & Performance portfolio. As part of the SSC structure, program offices were assigned dedicated HR Business Partners to support their needs, including recruitment and hiring. ",
+		"commonBaselineArea": "organizationAndWorkforce",
+		"dcoiArea": "nonDataCenter"
+	}, {
+		"milestoneID": 35,
+		"milestoneDesc": "Data Center Modernization Strategy document (CD-1)",
+		"milestoneTargetCompletionDate": "2017/01/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "Develop a strategy for the migration of all existing DOE workloads currently located at the Germantown, Albuquerque and Terremark data centers to a cloud environment.  ",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "cloudMigration"
+	}, {
+		"milestoneID": 36,
+		"milestoneDesc": "Business Case for Data Center Modernization (CD-1)",
+		"milestoneTargetCompletionDate": "2017/06/30",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "Dependent on customer interviews and vendor assessments, develop and recommend infrastructure environment(s) for new (next generation) DOE HQ IT application requirements, to include COOP capabilities. It will also include the estimated time and resources assigned to document As Is and To Be architecture. ",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "cloudMigration"
+	}, {
+		"milestoneID": 37,
+		"milestoneDesc": "Implementation Plan for DCM project (CD-1)",
+		"milestoneTargetCompletionDate": "2017/09/30",
+		"milestoneStatus": "NotStarted",
+		"milestoneStatusDesc": "Develop a framework for enterprise infrastructure expansion and scalability aligned with the DCM Strategy and the  vendor assessments completed for the business case.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "cloudMigration"
+	}, {
+		"milestoneID": 38,
+		"milestoneDesc": "Data Center Infrastructure Management (DCIM) Project Charter (DC-0)",
+		"milestoneTargetCompletionDate": "2017/03/31",
+		"milestoneStatus": "InProgress",
+		"milestoneStatusDesc": "Describes the business need for the DCIM and the authorizes the funds for the project. It provides the project manager with the authority to apply up to a certain level of organizational resources to project activities.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "optimization"
+	}, {
+		"milestoneID": 39,
+		"milestoneDesc": "Develop a Shared Services Strategy",
+		"milestoneTargetCompletionDate": "2017/06/30",
+		"milestoneStatus": "NotStarted",
+		"milestoneStatusDesc": "Determine the requirements, assessment criteria and selection for DOE sites be a inter-agency and intra-agency shared service provider.",
+		"commonBaselineArea": "budgetFormulation",
+		"dcoiArea": "sharedServices"
+	}]
+}

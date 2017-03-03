@@ -1,0 +1,34 @@
+﻿{
+    "boards": [
+        {
+            "governanceBoardName": "Cyber Council",
+            "bureauCode": "00",
+            "cioInvolvementDescription": "The CIO is a member of the Cyber Council. The Cyber Council is the principal forum for collaboration and coordination of broad cyber activities across the DOE Enterprise, and for consideration of cyber-related issues requiring decision by the Council Chair."
+        },
+        {
+            "governanceBoardName": "Information Management Governance Board (IMGB)",
+            "bureauCode": "60",
+            "cioInvolvementDescription": "The CIO chairs the IMGB. The IMGB, within the governance framework approved by the Cyber Council, serves as the principal forum for coordinating information management activities and issues across the Department and for consideration of investment decisions by DOE senior leadership. "
+        },
+        {
+            "governanceBoardName": "Cyber Steering Committee",
+            "bureauCode": "60",
+            "cioInvolvementDescription": "The CIO is a member of the Cyber Steering Committee and advises on the Cyber Council's strategic vision, agenda, prepared materials, summary of conclusions, and management of information flow to ensure that relevant stakeholders have opportunities to weigh in on relevant issues. "
+        },
+        {
+            "governanceBoardName": "Energy System Acquisition Advisory Board (ESAAB)",
+            "bureauCode": "00",
+            "cioInvolvementDescription": "The CIO participates as a member of the ESAAB, as it relates to projects that contain IT.  The ESAAB’s purpose is to assist in the decision-making process on critical decision (CD) milestones, baseline change proposals (BCPs), and site selections for Major System Projects."
+        },
+        {
+            "governanceBoardName": "Lab Planning and Appraisal  process ",
+            "bureauCode": "00",
+            "cioInvolvementDescription": "As part of the lab planning process, each lab presents its plans to Office of Science management at Headquarters.   These yearly reviews of each lab is focused on work in their  current core competencies and  an overview of their planned activities including an  estimate of resources needed to support new and existing activities.  Participation will be expanded to include the appropriate CIO participation."
+        },
+        {
+            "governanceBoardName": "Departmental Investment Review Boards",
+            "bureauCode": "00",
+            "cioInvolvementDescription": "The CIO will either be included in the Departmental Investment Review Boards or use an alternate equivalent approach, as it relates to IT."
+        }
+    ]
+}

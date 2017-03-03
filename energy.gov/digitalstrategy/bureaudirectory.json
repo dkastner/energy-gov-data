@@ -1,0 +1,333 @@
+{
+	"leaders": [{
+		"bureauCode": "60",
+		"firstName": "Michael",
+		"lastName": "Johnson",
+		"employmentType": "SES",
+		"typeOfAppointment": "political",
+		"otherResponsibilities": "none",
+		"evaluationRatingOfficialTitle": "David Klaus, Deputy Under Secretary for Management & Performance",
+		"evaluationReviewingOfficialTitle": "David Klaus, Deputy Under Secretary for Management & Performance",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "60",
+		"firstName": "Robert",
+		"lastName": "Green",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Principal Deputy CIO for Enterprise Information Resources Management",
+		"evaluationRatingOfficialTitle": "Michael Johnson, Chief Information Officer",
+		"evaluationReviewingOfficialTitle": "Michael Johnson, Chief Information Officer",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "00",
+		"firstName": "Penny",
+		"lastName": "Mefford",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Financial, Budget, Accounting, Internal Controls",
+		"evaluationRatingOfficialTitle": "Alison Doone, Deputy Agency Chief Financial Officer",
+		"evaluationReviewingOfficialTitle": "Joe Hezir, Agency Chief Financial Officer",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Tony",
+		"lastName": "Bailey",
+		"employmentType": "Other",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director of Office of Information Technology",
+		"evaluationRatingOfficialTitle": "Vergle L. Gipson, Assistant Deputy Secretary for Fusion, Analysis, and Mitigation for the Office of Intelligence and Counterintelligence",
+		"evaluationReviewingOfficialTitle": "Steven K. Black, Director of Office of Intelligence and Counterintelligence",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "60",
+		"firstName": "Larry",
+		"lastName": "Buttress",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Vice President & Chief Information Officer",
+		"evaluationRatingOfficialTitle": "Claudia Andrews, Chief Operating Officer for Bonneville Power Administration",
+		"evaluationReviewingOfficialTitle": "Elliot Mainzer, Administrator and Chief Executive Officer",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "60",
+		"firstName": "Raymond",
+		"lastName": "Holmer",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Supervisory Information Technology Specialist",
+		"evaluationRatingOfficialTitle": "Stephen Kirchhoff, Deputy Associate Under Secretary for Environment, Health, Safety, and Security",
+		"evaluationReviewingOfficialTitle": "Matthew Moury, Associate Under Secretary for Environment, Health, Safety, and Security",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "60",
+		"firstName": "Sherri",
+		"lastName": "Bishop",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Supervisory Management Analyst",
+		"evaluationRatingOfficialTitle": "Raymond Holmer, Supervisory Information Technology Specialist for Environment, Health, Safety, and Security",
+		"evaluationReviewingOfficialTitle": "Stephen Kirchhoff, Deputy Associate Under Secretary for Environment, Health, Safety, and Security",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "60",
+		"firstName": "John",
+		"lastName": "Shea",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Budget; Resources; HSO",
+		"evaluationRatingOfficialTitle": "James Hendrix, Operations Manager",
+		"evaluationReviewingOfficialTitle": "Andre H. Sayles, Ph.D., Principal Deputy Director",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "05",
+		"firstName": "Wayne",
+		"lastName": "Jones",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Privacy Officer",
+		"evaluationRatingOfficialTitle": "Madelyn Creedon, Principal Deputy Administrator for National Nuclear Security",
+		"evaluationReviewingOfficialTitle": "Frank Klotz, Under Secretary for Nuclear Security",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "50",
+		"firstName": "Dawn",
+		"lastName": "Roth-Lindell",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Senior Vice President\n& Chief Information Officer",
+		"evaluationRatingOfficialTitle": "Mark A. Gabriel, Administrator for Western Area Power Administration",
+		"evaluationReviewingOfficialTitle": "  ",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "50",
+		"firstName": "Steve",
+		"lastName": "Wall",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director, Information Technology",
+		"evaluationRatingOfficialTitle": "Keith Blackstone -- Senior Vice President of Corporate Compliance",
+		"evaluationReviewingOfficialTitle": "Keith Blackstone -- Senior Vice President of Corporate Compliance",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Vasilios",
+		"lastName": "Kountouris",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director, Office of Information Technology and Services",
+		"evaluationRatingOfficialTitle": "Jeffrey Salmon, Deputy Director for Resource Management for Science Programs",
+		"evaluationReviewingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Steve",
+		"lastName": "Binkley",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Associate Director, Office of Advanced Scientific Computing Research",
+		"evaluationRatingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"evaluationReviewingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Barb ",
+		"lastName": "Helland",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Associate Director - Acting, Office of Advanced Scientific Computing Research",
+		"evaluationRatingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"evaluationReviewingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Jeff ",
+		"lastName": "Salmon",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Deputy Director for Resource Management",
+		"evaluationRatingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"evaluationReviewingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Joseph",
+		"lastName": "McBrearty",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Deputy Director for Field Operations",
+		"evaluationRatingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"evaluationReviewingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Jeffrey",
+		"lastName": "Given",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Assistant Director for Preservation & Technology",
+		"evaluationRatingOfficialTitle": "Brian Hitson, Director of Office of Science and Technical Information",
+		"evaluationReviewingOfficialTitle": "Jeffrey Salmon, Deputy Director for Resource Management for Science Programs",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Stephanie",
+		"lastName": "Short",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Associate Deputy for Field Operations",
+		"evaluationRatingOfficialTitle": "Joseph McBrearty, Deputy Director for Field Operations for Science Programs",
+		"evaluationReviewingOfficialTitle": "Steve Binkley, Deputy Director - Acting for Science Programs",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Eugene",
+		"lastName": "Duah",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director of Information Technology",
+		"evaluationRatingOfficialTitle": "Douglas Hollett, Principal Deputy Assistant Secretary",
+		"evaluationReviewingOfficialTitle": "Christopher Smith, Assistant Secretary for Fossil Energy",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Leo ",
+		"lastName": "Selico",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director of Information System and Technical Service/CIO",
+		"evaluationRatingOfficialTitle": "Lisa Nicholson, Supervisory General Engineer for Office of Assistant Project Manager for Strategic Petroleum Reserve",
+		"evaluationReviewingOfficialTitle": "William Gibson, Project Manager for Strategic Petroleum Reserve",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Mark",
+		"lastName": "Estel",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Sr. IT Operations Director",
+		"evaluationRatingOfficialTitle": "Dr. Linda Kimberling, Deputy Director and Chief Operating Officer",
+		"evaluationReviewingOfficialTitle": "Dr. Grace Bochenek, Director, NETL",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Steven",
+		"lastName": "Von-Vital",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Supervisory Information Technology Specialist",
+		"evaluationRatingOfficialTitle": "Bindu Jacob, Director, Information Technology Services Office, Energy Efficiency and Renewable Energy",
+		"evaluationReviewingOfficialTitle": "Michael Budney, Director of Office of Business Operations, Energy Efficiency and Renewable Energy",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Patrick",
+		"lastName": "Booher",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director of Operations",
+		"evaluationRatingOfficialTitle": "Terri Lee, Chief Operating Officer for Corporate Business Operations for Electricity Delivery and Energy Reliability",
+		"evaluationReviewingOfficialTitle": "Patricia Hoffman, Assistant Secretary for Electricity Delivery and Energy Reliability",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "20",
+		"firstName": "Joseph",
+		"lastName": "Wilson",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Chief Information Officer (acting), EIA",
+		"evaluationRatingOfficialTitle": "Assistant Administrator, Office of Resource and Technology Management",
+		"evaluationReviewingOfficialTitle": "Assistant Administrator, Office of Resource and Technology Management",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Terri",
+		"lastName": "Lee",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Chief Operating Officer",
+		"evaluationRatingOfficialTitle": "Patricia Hoffman, Assistant Secretary for Electricity Delivery and Energy Reliability",
+		"evaluationReviewingOfficialTitle": "Patricia Hoffman, Assistant Secretary for Electricity Delivery and Energy Reliability",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Deitra",
+		"lastName": "Phillips",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Program Manager",
+		"evaluationRatingOfficialTitle": "Deitra Phillips, Program Manager for Corporate Business Operations for Electricity Delivery and Energy Reliability",
+		"evaluationReviewingOfficialTitle": "Deitra Phillips, Program Manager for Corporate Business Operations for Electricity Delivery and Energy Reliability",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Jeanne",
+		"lastName": "Beard",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Director, Corporate Information & Services",
+		"evaluationRatingOfficialTitle": "Melody Bell, Associate Deputy Assistant Secretary for Human Capital",
+		"evaluationReviewingOfficialTitle": "J. Mark Whitney, Principal Deputy Assistant Secretary for Environmental Management",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "50",
+		"firstName": "Joel",
+		"lastName": "Seymour",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Contracting Officer",
+		"evaluationRatingOfficialTitle": "Ken Legg, Administrator for Southastern Power Administration",
+		"evaluationReviewingOfficialTitle": "  ",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "60",
+		"firstName": "Edwin",
+		"lastName": "Parks",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Team Leader Archives and Information Management Team",
+		"evaluationRatingOfficialTitle": "David Shafer, Director, Office of Business Operations, LM",
+		"evaluationReviewingOfficialTitle ": "Tom Pauling, Director(Acting)Office of Legacy Management",
+		"keyBureauCIO": "Yes"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Ken",
+		"lastName": "Wellmaker",
+		"employmentType": "Other",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": " ",
+		"evaluationRatingOfficialTitle": "CIO",
+		"evaluationReviewingOfficialTitle": " ",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Ward",
+		"lastName": "Best",
+		"employmentType": "SES",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "Records Management",
+		"evaluationRatingOfficialTitle": "Director, Environmental Management Consolidated Business Center (EMCBC)",
+		"evaluationReviewingOfficialTitle": "Deputy Director, Environmental Management Consolidated Business Center (EMCBC)",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Cecil",
+		"lastName": "Thomas",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "IT Federal Support & M&O IT Oversight, Emergency Operations Center Federal Representative",
+		"evaluationRatingOfficialTitle": "Director, Office of Business",
+		"evaluationReviewingOfficialTitle": "Manager, Carlsbad Field Office",
+		"keyBureauCIO": "No"
+	}, {
+		"bureauCode": "10",
+		"firstName": "Lewann",
+		"lastName": "Belton",
+		"employmentType": "GS",
+		"typeOfAppointment": "career",
+		"otherResponsibilities": "AODR",
+		"evaluationRatingOfficialTitle": "(Deputy Director) Office of Safeguards, Security and Emergency Services ",
+		"evaluationReviewingOfficialTitle": "(Director) Office of Safeguards, Security and Emergency Services ",
+		"keyBureauCIO": "No"
+	}]
+}

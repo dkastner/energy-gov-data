@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7 ie6" lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" prefix="og: http://opengraphprotocol.org/schema/ content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="lt-ie10 lt-ie9 lt-ie8 ie7" lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" prefix="og: http://opengraphprotocol.org/schema/ content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="lt-ie10 lt-ie9 ie8" lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" prefix="og: http://opengraphprotocol.org/schema/ content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 9 ]>    <html class="lt-ie10 ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" prefix="og: http://opengraphprotocol.org/schema/ content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" prefix="og: http://opengraphprotocol.org/schema/ content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+
+<head profile="https://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Energy.gov" />
+<meta property="og:phone_number" content="202-586-5000" />
+<meta property="fb:admins" content="10718899,1407911,20010394,13004794,207303407,203176,747807274,100001088239132,1384028141" />
+<meta property="og:country-name" content="USA" />
+<meta name="instance" content="local-dev" />
+<meta property="og:postal-code" content="20585" />
+<meta property="og:image" content="http://energy.gov/sites/prod/files/DOE_Seal_Color_042808.png" />
+<meta property="og:description" content="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls " />
+<meta property="og:title" content="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls " />
+<meta property="og:type" content="government" />
+<meta property="og:url" content="https://energy.gov/cio/articles/t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security" />
+<meta property="og:locality" content="Washington D.C." />
+<meta property="og:street-address" content="1000 Independence Ave. SW" />
+<link rel="shortcut icon" href="../../sites/all/themes/energy/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Cisco ASA 5500 Series Adaptive Security Appliances are affected by multiple vulnerabilities. Affected versions of Cisco ASA Software vary depending on the specific vulnerability. Cisco ASA 5500 Series Adaptive Security Appliances may experience a TCP connection exhaustion condition (no new TCP connections are accepted) that can be triggered through the receipt of specific TCP segments during the TCP connection termination phase. Appliances that are running versions 7.1.x, 7.2.x, 8.0.x, 8.1.x, and 8.2.x are affected when they are configured for any of the following features: * SSL VPNs * Cisco Adaptive Security Device Manager (ASDM) Administrative Access * Telnet Access * SSH Access * Virtual Telnet * Virtual HTTP * Transport Layer Security (TLS) Proxy for Encrypted Voice Inspection SIP Inspection Denial of Service Vulnerabilities: Two denial of service (DoS) vulnerabilities affect the SIP inspection feature of Cisco ASA 5500 Series Adaptive Security Appliances. Versions 7.0.x, 7.1.x, 7.2.x, 8.0.x, 8.1.x, and 8.2.x are affected. SIP inspection is enabled by default." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security.html" />
+<link rel="shortlink" href="https://energy.gov/node/379477" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://energy.gov/cio/articles/t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security" />
+<meta name="twitter:title" content="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls" />
+<meta name="twitter:description" content="Cisco ASA 5500 Series Adaptive Security Appliances are affected by multiple vulnerabilities. Affected versions of Cisco ASA Software vary depending on the specific vulnerability. Cisco ASA 5500 Series Adaptive Security Appliances may experience a TCP connection exhaustion condition (no new TCP connections are accepted) that can be triggered through the receipt of specific TCP segments during the TCP connection termination phase. Appliances that are running versions 7.1.x, 7.2.x, 8.0.x, 8.1.x, and 8.2.x are affected when they are configured for any of the following features: * SSL VPNs * Cisco Adaptive Security Device Manager (ASDM) Administrative Access * Telnet Access * SSH Access * Virtual Telnet * Virtual HTTP * Transport Layer Security (TLS) Proxy for Encrypted Voice Inspection SIP Inspection Denial of Service Vulnerabilities: Two denial of service (DoS) vulnerabilities affect the SIP inspection feature of Cisco ASA 5500 Series Adaptive Security Appliances. Versions 7.0.x, 7.1.x, 7.2.x, 8.0.x, 8.1.x, and 8.2.x are affected. SIP inspection is enabled by default." />
+  <title>T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls | Department of Energy</title>
+  <link type="text/css" rel="stylesheet" href="../../sites/prod/files/advagg_css/css__vNsJ9dO9uM-_bY3sV9uYXqsmJlRuiPez5_jxjdB2qx0___S5D9wpKufOlZx5WUcpV6IGoQB3AwS_xvDKyJlsY7JM__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/prod/files/advagg_css/css__YmZ5BJ9EjLgHTJN5yRxxnlzEEf48CIGpNT4jwj5tvpc__HbkylVudb71lAsbd4z2brRHgGbYtTByfOKIAsn1KNdw__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fast.fonts.com/t/1.css?apiType=css&amp;projectid=b893a4ff-9ea3-4ce8-bf77-c8d3e3a3de97" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/prod/files/advagg_css/css__Zihhx5zJvZBpfmQnlN_Mm353I3LncszsAxlFRV8lu24__M1Y2hhsyN5ygQ1Gh7AumrJpnpwJEKVE0A09DOwODt4g__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/prod/files/advagg_css/css__j9PDluVao_-b5h0jS8YeHG9A_dai-6ManAqqnc-QnKA__tlLg1j9iV5yaURz_pl3Pk2f7lnBkvKWeQlZeQaRGxFk__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.css" media="all" />
+  <meta name="viewport" content="width=device-width, maximum-scale=2, minimum-scale=1, initial-scale=1, user-scalable=yes" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-379477 node-type-article group-subdomain " >
+  <div id="skip-link">
+    <a href="t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security.html#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<div id="body-wrapper">
+
+        <div id="header-wrapper">
+      <div id="header" class="container column-row">
+          <div class="region region-header">
+    <div class="block-energy-core-off-canvas-control-menu-wrapper">
+  <div id="block-energy-core-off-canvas-control-menu" class="block block-energy-core block-energy-core-off-canvas-control-menu clearfix">
+
+          
+    <div class="content">
+      <nav class="off-canvas-control off-canvas-control-menu">
+				<ul>
+          <li class="menu-item"><a class="menu-button" href="t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security.html#main-menu"><span class="element-invisible">Menu</span><i class="icon-reorder"></i></a></li>
+				</ul>
+        </nav>    </div>
+  </div>
+</div>
+<div class="block-energy-core-site-name-wrapper">
+  <div id="block-energy-core-site-name" class="block block-energy-core block-energy-core-site-name clearfix">
+
+          
+    <div class="content">
+      <h1 class="site-name"><a href="../../energygov.html" class=""><span><img src="../../sites/all/themes/energy/images/energy_crest.png"><span class="logo-text">Energy.gov</span></span></a></h1>
+<h2 class="site-name"><a href="../../cio.1.html" class=""><span>Office of the Chief Information Officer</span></a></h2>    </div>
+  </div>
+</div>
+<div class="block-energy-core-off-canvas-control-search-wrapper">
+  <div id="block-energy-core-off-canvas-control-search" class="block block-energy-core block-energy-core-off-canvas-control-search clearfix">
+
+          
+    <div class="content">
+      <nav class="off-canvas-control off-canvas-control-search">
+				<ul>
+					<li class="search-item"><a class="search-button" href="t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security.html#search"><span class="element-invisible">Search</span><i class="icon-search"></i></a></li>
+				</ul>
+        </nav>    </div>
+  </div>
+</div>
+<div class="block-search-form-wrapper">
+  <div id="block-search-form" class="block block-search block-search-form clearfix">
+
+          
+    <div class="content">
+      <form action="t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security.html" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search Energy.gov" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" value="Search" src="../../sites/all/themes/energy/images/energy_search_glass.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-t3gF_MDA2XYJgllS3xMTrTTlK2NVMJAG5bCk5UnWfmM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>
+  </div>
+      </div>
+              <div id="mobile-office-header-wrapper">
+          <div id="mobile-office-header">
+            <h2><a href="../../cio.1.html" class=""><span>Office of the Chief Information Officer</span></a></h2>
+          </div>
+        </div>
+          </div>
+  
+      <div id="navigation-wrapper">
+      <div id="navigation" class="container column-row">
+          <div class="region region-navigation">
+    <div class="block-energy-core-navigation-main-wrapper">
+  <div id="block-energy-core-navigation-main" class="block block-energy-core block-energy-core-navigation-main clearfix">
+
+          <h4 class="block-title">Office of the Chief Information Officer</h4>
+      
+    <div class="content">
+      <div class="primary-nav"><ul class="menu"><li class="first expanded depth-1"><a href="../office-chief-information-officer/services.1.html" class=""><span>Services</span></a><ul class="menu"><li class="first leaf parent-link depth-1"><a href="../office-chief-information-officer/services.1.html" class=""><span>Services Home</span></a></li>
+<li class="leaf depth-2 original-first"><a href="../office-chief-information-officer/services/assistive-technology.html" class=""><span>Assistive Technology</span></a></li>
+<li class="leaf depth-2"><a href="../forms.html" class=""><span>Forms</span></a></li>
+<li class="leaf depth-2"><a href="../google-drive-work.html" class=""><span>Google Apps</span></a></li>
+<li class="expanded depth-2"><a href="../office-chief-information-officer/services/guidance.1.html" class=""><span>Guidance</span></a><ul class="menu"><li class="first leaf parent-link depth-2"><a href="../office-chief-information-officer/services/guidance.1.html" class=""><span>Guidance Home</span></a></li>
+<li class="leaf depth-3 original-first"><a href="../office-chief-information-officer/services/guidance/it-capital-planning.html" class=""><span>Capital Planning</span></a></li>
+<li class="leaf depth-3"><a href="../office-chief-information-officer/services/guidance/information-collection-management.html" class=""><span>Information Collection Management</span></a></li>
+<li class="expanded depth-3"><a href="../guidance/it-acquisition.1.html" class=""><span>IT Acquisition</span></a><ul class="menu"><li class="first leaf parent-link depth-3"><a href="../guidance/it-acquisition.1.html" class=""><span>IT Acquisition Home</span></a></li>
+<li class="leaf depth-4 original-first"><a href="../guidance/it-acquisition/enterprise-wide-agreements.html" class=""><span>Enterprise-Wide Agreements</span></a></li>
+<li class="leaf depth-4"><a href="../guidance/it-acquisition/smartbuy.html" class=""><span>SmartBuy</span></a></li>
+<li class="last leaf depth-4"><a href="../guidance/it-acquisition/timesharing-agreements.html" class=""><span>Timesharing</span></a></li>
+</ul></li>
+<li class="expanded depth-3"><a href="../office-chief-information-officer/services/guidance/privacy.1.html" class=""><span>Privacy</span></a><ul class="menu"><li class="first leaf parent-link depth-3"><a href="../office-chief-information-officer/services/guidance/privacy.1.html" class=""><span>Privacy Home</span></a></li>
+<li class="leaf depth-4 original-first"><a href="../office-chief-information-officer/services/guidance/privacy/appeals.html" class=""><span>Appeals</span></a></li>
+<li class="last leaf depth-4"><a href="../office-chief-information-officer/services/guidance/privacy/impact-assessments.html" class=""><span>Impact Assessments</span></a></li>
+</ul></li>
+<li class="last expanded depth-3"><a href="../guidance/records-management.1.html" class=""><span>Records Management</span></a><ul class="menu"><li class="first leaf parent-link depth-3"><a href="../guidance/records-management.1.html" class=""><span>Records Management Home</span></a></li>
+<li class="leaf depth-4 original-first"><a href="../guidance/records-management/disposition-schedules.html" class=""><span>Disposition Schedules</span></a></li>
+<li class="leaf depth-4"><a href="../office-chief-information-officer/services/guidance/records-management/procedures-and.html" class=""><span>Procedures/Instructions</span></a></li>
+<li class="last leaf depth-4"><a href="../guidance/records-management/storagehandling.html" class=""><span>Records Handling &amp; Authorizations</span></a></li>
+</ul></li>
+</ul></li>
+<li class="expanded depth-2"><a href="../office-chief-information-officer/services/incident-management.1.html" class=""><span>Incident Management</span></a><ul class="menu"><li class="first leaf parent-link depth-2"><a href="../office-chief-information-officer/services/incident-management.1.html" class=""><span>Incident Management Home</span></a></li>
+<li class="leaf depth-3 original-first"><a href="../../articles/673/708757+708775/JC3&#32;Bulletin&#32;Archive.html" class=""><span>JC3 Bulletin Archive</span></a></li>
+<li class="last leaf depth-3"><a href="../office-chief-information-officer/services/incident-management/jc3-incident-reporting.html" class=""><span>Incident Reporting</span></a></li>
+</ul></li>
+<li class="leaf depth-2"><a href="../it-services.html" class=""><span>IT Services</span></a></li>
+<li class="leaf depth-2"><a href="../pki.html" class=""><span>PKI</span></a></li>
+<li class="leaf depth-2"><a href="../office-chief-information-officer/services/remote-access-services.html" class=""><span>Remote Access</span></a></li>
+<li class="last expanded depth-2"><a href="../training.1.html" class=""><span>Training</span></a><ul class="menu"><li class="first leaf parent-link depth-2"><a href="../training.1.html" class=""><span>Training Home</span></a></li>
+<li class="last leaf depth-3 original-first"><a href="../training/cybersecurity-awareness-training-warehouse.html" class=""><span>Cybersecurity Training Warehouse</span></a></li>
+</ul></li>
+</ul></li>
+<li class="expanded depth-1"><a href="../office-chief-information-officer/policy-and-regulations.1.html" class=""><span>Policy and Regulations</span></a><ul class="menu"><li class="first leaf parent-link depth-1"><a href="../office-chief-information-officer/policy-and-regulations.1.html" class=""><span>Policy and Regulations Home</span></a></li>
+<li class="leaf depth-2 original-first"><a href="../office-chief-information-officer/policy-and-regulations/doe-policies.html" class=""><span>DOE Policies</span></a></li>
+<li class="leaf depth-2"><a href="../office-chief-information-officer/policy-and-regulations/federal-regulations.html" class=""><span>Federal Regulations</span></a></li>
+<li class="last leaf depth-2"><a href="../office-chief-information-officer/policy-and-regulations/omb-policies.html" class=""><span>OMB Policies</span></a></li>
+</ul></li>
+<li class="leaf depth-1"><a href="../office-chief-information-officer/mission.html" class=""><span>Mission</span></a></li>
+<li class="expanded depth-1"><a href="../about-us.1.html" class=""><span>About Us</span></a><ul class="menu"><li class="first leaf parent-link depth-1"><a href="../about-us.1.html" class=""><span>About Us Home</span></a></li>
+<li class="expanded depth-2 original-first"><a href="../blog-and-news-highlights.html" class=""><span>News &amp; Blog</span></a><ul class="menu"><li class="first leaf parent-link depth-2"><a href="../blog-and-news-highlights.html" class=""><span>News &amp; Blog Home</span></a></li>
+<li class="last leaf depth-3 original-first"><a href="https://energy.gov/articles/673/7%2B13%2B19%2B25/CIO%20Blog%20Archive" class=""><span>CIO Blog Archive</span></a></li>
+</ul></li>
+<li class="leaf depth-2"><a href="../about-us/ocio-leadership.html" class=""><span>CIO Leadership</span></a></li>
+<li class="leaf depth-2"><a href="../organization.html" class=""><span>Organization</span></a></li>
+<li class="last expanded depth-2"><a href="../about-us/contact-us.1.html" class=""><span>Contact Us</span></a><ul class="menu"><li class="first leaf parent-link depth-2"><a href="../about-us/contact-us.1.html" class=""><span>Contact Us Home</span></a></li>
+<li class="leaf depth-3 original-first"><a href="../about-us/contact-us/contacts-cybersecurity.html" class=""><span>Cyber Security</span></a></li>
+<li class="leaf depth-3"><a href="../about-us/contact-us/contacts-e-gov.html" class=""><span>E-Gov</span></a></li>
+<li class="leaf depth-3"><a href="../about-us/contact-us/contacts-enterprise-architecture.html" class=""><span>Enterprise Architecture</span></a></li>
+<li class="leaf depth-3"><a href="../about-us/contact-us/contacts-geospatial-science-program.html" class=""><span>Geospatial Science Program</span></a></li>
+<li class="leaf depth-3"><a href="../about-us/contact-us/contacts-information-collection-management.html" class=""><span>Information Collection Management</span></a></li>
+<li class="leaf depth-3"><a href="../about-us/contact-us/contacts-it-planning.html" class=""><span>IT Planning</span></a></li>
+<li class="leaf depth-3"><a href="../about-us/contact-us/contacts-it-project-management.html" class=""><span>IT Project Management</span></a></li>
+<li class="last leaf depth-3"><a href="../about-us/contact-us/contacts-information-management-forms-information-collection-pra-records.html" class=""><span>Records Management</span></a></li>
+</ul></li>
+</ul></li>
+<li class="last leaf depth-1"><a href="../../offices.html" class=""><span>Offices</span></a></li>
+</ul></div>    </div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+  
+  <div id="content-wrapper">
+    <div id="top-wrapper">
+      <div id="top" class="container column-row">
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="../../cio.1.html" class=""><span>Home</span></a> » T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls </div>        <div class="page-title-wrapper clearfix">
+          <h2 class="page-title">T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls </h2>
+                    </div>
+                <div class="publish-date">January 18, 2011 - 2:30pm</div>                                                    <div class="region region-top">
+    <div class="block-energy-content-energy-addthis-wrapper">
+  <div id="block-energy-content-energy-addthis" class="block block-energy-content block-energy-content-energy-addthis clearfix">
+
+          <h4 class="block-title">Addthis</h4>
+      
+    <div class="content">
+          <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+        addthis_pub = 'ra-4e306a1b4dc28184';
+        Document.ui_use_css = false;
+      //--><!]]>
+    </script>
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style "  addthis:url="https://energy.gov/cio/articles/t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security" addthis:title="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls " addthis:description="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls ">
+      <a class="addthis_button_email"></a><a class="addthis_button_facebook"></a><a class="addthis_button_tweet" tw:via="energy" tw:count="none"></a><a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>
+    </div>
+    <script type="text/javascript">
+    var addthisScript = addthisScript || document.createElement('script');
+    addthisScript.src = addthisScript.src || 'https://s7.addthis.com/js/250/addthis_widget.js';
+    if (!firstScript) {
+      var firstScript = document.getElementsByTagName("script")[0];
+      firstScript.parentNode.insertBefore(addthisScript, firstScript);
+    }
+    </script>
+    <!-- AddThis Button END -->    </div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+    <div id="page-wrapper">
+      <div id="page" class="container column-row">
+
+        <div id="content-sidebar-right-wrapper"  class="column last first">
+          
+          <div id="main-content"  class="column first">
+                        <div id="content">  <div class="region region-content">
+    <div class="block-system-main-wrapper">
+  <div id="block-system-main" class="block block-system block-system-main clearfix">
+
+          
+    <div class="content">
+      <div class="node node-article node-full node-379477 clearfix" about="/cio/articles/t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security" typeof="sioc:Item foaf:Document">
+    
+        <span property="dc:title" content="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls " class="rdf-meta element-hidden"></span>  
+  
+  <div class="content">
+    <div class="field-group-format group_article_main field-group-div group-article-main column grid-7 last speed-fast effect-none"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div  property="content:encoded" class="field-item odd"> <h4>PROBLEM:</h4>
+<p>Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls.</p>
+<h4>PLATFORM:</h4>
+<p>Cisco 5500 Series Adaptive Security Appliances (ASA)</p>
+<h4>ABSTRACT:</h4>
+<p>Cisco ASA 5500 Series Adaptive Security Appliances are affected by multiple vulnerabilities. Affected versions of Cisco ASA Software vary depending on the specific vulnerability.</p>
+<p>Cisco ASA 5500 Series Adaptive Security Appliances may experience a TCP connection exhaustion condition (no new TCP connections are accepted) that can be triggered through the receipt of specific TCP segments during the TCP connection termination phase. Appliances that are running versions 7.1.x, 7.2.x, 8.0.x, 8.1.x, and 8.2.x are affected when they are configured for any of the following features:</p>
+<p>* SSL VPNs<br />* Cisco Adaptive Security Device Manager (ASDM) Administrative Access<br />* Telnet Access<br />* SSH Access<br />* Virtual Telnet<br />* Virtual HTTP<br />* Transport Layer Security (TLS) Proxy for Encrypted Voice Inspection</p>
+<p>SIP Inspection Denial of Service Vulnerabilities:</p>
+<p>Two denial of service (DoS) vulnerabilities affect the SIP inspection feature of Cisco ASA 5500 Series Adaptive Security Appliances. Versions 7.0.x, 7.1.x, 7.2.x, 8.0.x, 8.1.x, and 8.2.x are affected. SIP inspection is enabled by default.</p>
+<h4>reference LINKS: </h4>
+<p><a href="https://energy.gov/exit?url=http%3A//www.securityfocus.com/bid/45768" rel="nofollow">Security Focus Bugtraq ID: 45768 </a><br /><a href="https://energy.gov/exit?url=http%3A//securitytracker.com/alerts/2011/Jan/1024963.html" rel="nofollow">SecurityTracker Alert ID: 1024963</a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4692" rel="nofollow">CVE-2010-4692 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4691" rel="nofollow">CVE-2010-4691 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4690" rel="nofollow">CVE-2010-4690 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4689" rel="nofollow">CVE-2010-4689 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4688" rel="nofollow">CVE-2010-4688 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4682" rel="nofollow">CVE-2010-4682 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4681" rel="nofollow">CVE-2010-4681 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4680" rel="nofollow">CVE-2010-4680 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4679" rel="nofollow">CVE-2010-4679 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4678" rel="nofollow">CVE-2010-4678 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4677" rel="nofollow">CVE-2010-4677 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4676" rel="nofollow">CVE-2010-4676 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4675" rel="nofollow">CVE-2010-4675 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4674" rel="nofollow">CVE-2010-4674 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4673" rel="nofollow">CVE-2010-4673 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4672" rel="nofollow">CVE-2010-4672 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2010-4670" rel="nofollow">CVE-2010-4670 </a><br /><a href="https://energy.gov/exit?url=http%3A//cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2009-5037" rel="nofollow">CVE-2009-5037 </a><br /><a href="https://energy.gov/exit?url=http%3A//www.cisco.com/warp/public/707/cisco-sa-20100217-asa.shtml" rel="nofollow">Cisco Security Advisory KB25382</a><br /><a href="https://energy.gov/exit?url=http%3A//www.cisco.com/en/US/docs/security/asa/asa82/release/notes/asarn82.pdf" rel="nofollow">Cisco Release Notes</a><br /> </p>
+<h4>IMPACT ASSESSMENT:</h4>
+<p>High</p>
+<h4>Discussion:</h4>
+<p>TCP Connection Exhaustion Denial of Service Vulnerability:</p>
+<p>Successful exploitation of this vulnerability may lead to an exhaustion condition where the affected appliance cannot accept new TCP connections. A reload of the appliance is necessary to recover from the TCP connection exhaustion condition. If a TCP-based protocol is used for device management (like telnet, SSH, or HTTPS), a serial console connection may be needed to access to the appliance. This vulnerability was discovered during the resolution of a customer service request.</p>
+<p>SIP Inspection Denial of Service Vulnerabilities:</p>
+<p>Successful exploitation of this vulnerability may cause a reload of the affected appliance. Repeated exploitation could result in a sustained DoS condition. Cisco Bug ID CSCsy91157 was discovered during internal testing. Cisco Bug ID CSCtc96018 was discovered during the resolution of customer service requests.</p>
+<p>SCCP Inspection Denial of Service Vulnerability:</p>
+<p>Successful exploitation of this vulnerability may cause a reload of the affected appliance. Repeated exploitation could result in a sustained DoS condition.This vulnerability was discovered during the resolution of customer service requests.</p>
+<p>WebVPN DTLS Denial of Service Vulnerability:</p>
+<p>Successful exploitation of this vulnerability may cause a reload of the affected appliance. Repeated exploitation could result in a sustained DoS condition.This vulnerability was discovered during the resolution of customer service requests.</p>
+<p>Crafted TCP Segment Denial of Service Vulnerability:</p>
+<p>Successful exploitation of this vulnerability may cause a reload of the affected appliance. Repeated exploitation could result in a sustained DoS condition.This vulnerability was discovered during internal testing.</p>
+<p>Crafted IKE Message Denial of Service Vulnerability:</p>
+<p>Successful exploitation of this vulnerability could cause all IPsec VPN tunnels (LAN-to-LAN or remote) that terminate on the security appliance to be torn down and prevent new tunnels from being established. A manual reload of the appliance is required to re-establish all VPN tunnels.This vulnerability was discovered during the resolution of customer service requests.</p>
+<p>NTLMv1 Authentication Bypass Vulnerability:</p>
+<p>Successful exploitation of this vulnerability could result in unauthorized access to the network or appliance. This vulnerability was discovered during internal testing.</p>
+<h4>Solution:</h4>
+<p>Cisco has issued a fix (8.3(2)).<br />Cisco has released free software updates that address these vulnerabilities. Prior to deploying software, customers should consult their maintenance provider or check the software for feature set compatibility and known issues specific to their environment.<br />Customers may only install and expect support for the feature sets they have purchased. By installing, downloading, accessing or otherwise using such software upgrades, customers agree to be bound by the terms of Cisco's software license terms.<br /><a href="../../exit@url=http%253A%252F%252Fwww.cisco.com%252Fpublic%252Fsw-center%252Fsw-usingswc.shtml.html" rel="nofollow">Cisco Update</a></p>
+ </div></div></div></div>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+                          <div id="content-bottom">  <div class="region region-content-bottom">
+    <div class="block-energy-content-energy-addthis-bottom-wrapper">
+  <div id="block-energy-content-energy-addthis-bottom" class="block block-energy-content block-energy-content-energy-addthis-bottom clearfix">
+
+          <h4 class="block-title">Addthis</h4>
+      
+    <div class="content">
+          <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+        addthis_pub = 'ra-4e306a1b4dc28184';
+        Document.ui_use_css = false;
+      //--><!]]>
+    </script>
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style "  addthis:url="https://energy.gov/cio/articles/t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security" addthis:title="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls " addthis:description="T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls ">
+      <a class="addthis_button_email"></a><a class="addthis_button_facebook"></a><a class="addthis_button_tweet" tw:via="energy" tw:count="none"></a><a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>
+    </div>
+    <script type="text/javascript">
+    var addthisScript = addthisScript || document.createElement('script');
+    addthisScript.src = addthisScript.src || 'https://s7.addthis.com/js/250/addthis_widget.js';
+    if (!firstScript) {
+      var firstScript = document.getElementsByTagName("script")[0];
+      firstScript.parentNode.insertBefore(addthisScript, firstScript);
+    }
+    </script>
+    <!-- AddThis Button END -->    </div>
+  </div>
+</div>
+  </div>
+</div>
+                      </div>
+
+                      <div id="sidebar-right"  class="sidebar column last"><div class="block-count block-count-5">  <div class="region region-sidebar-second">
+    <div class="block-apachesolr-search-article-related-articles-wrapper">
+  <div id="block-apachesolr-search-article-related-articles" class="block block-apachesolr-search block-apachesolr-search-article-related-articles clearfix">
+
+          <h4 class="block-title">Related Articles</h4>
+      
+    <div class="content">
+      <div class="node node-article node-search-related node-374149 clearfix" about="/cio/articles/u-197-cisco-adaptive-security-appliances-denial-service-vulnerability" typeof="sioc:Item foaf:Document">
+    
+  
+  
+  <div class="content">
+    <a href="u-197-cisco-adaptive-security-appliances-denial-service-vulnerability.html" class="title-link"><span>U-197: Cisco Adaptive Security Appliances Denial of Service Vulnerability</span></a>  </div>
+
+  
+  
+</div>
+
+<div class="node node-article node-search-related node-611456 clearfix" about="/cio/articles/v-135-cisco-asa-multiple-bugs-let-remote-users-deny-service" typeof="sioc:Item foaf:Document">
+    
+  
+  
+  <div class="content">
+    <a href="v-135-cisco-asa-multiple-bugs-let-remote-users-deny-service.html" class="title-link"><span>V-135: Cisco ASA Multiple Bugs Let Remote Users Deny Service</span></a>  </div>
+
+  
+  
+</div>
+
+<div class="node node-article node-search-related node-711806 clearfix" about="/cio/articles/v-201-cisco-intrusion-prevention-system-ssp-fragmented-traffic-denial-service" typeof="sioc:Item foaf:Document">
+    
+  
+  
+  <div class="content">
+    <a href="v-201-cisco-intrusion-prevention-system-ssp-fragmented-traffic-denial-service.html" class="title-link"><span>V-201: Cisco Intrusion Prevention System SSP Fragmented Traffic Denial of Service   Vulnerability</span></a>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>
+<div class="block-bean-cio-jc3-contact-information-wrapper">
+  <div id="block-bean-cio-jc3-contact-information" class="block block-bean bean-freetext block-bean-cio-jc3-contact-information clearfix">
+
+          <h4 class="block-title">JC3 Contact:</h4>
+      
+    <div class="content">
+      <div class="entity entity-bean bean-freetext clearfix" about="/block/cio-jc3-contact-information">
+
+  <div class="content">
+    <div class="field field-name-field-freetext-body field-type-text-long field-label-hidden"><div class="field-items"><div  class="field-item odd"> <p><strong>Voice</strong>:Hotline at 1-866-941-2472</p>
+<p><strong>World Wide Web</strong>: <a href="../office-chief-information-officer/services/incident-management.1.html">http://energy.gov/cio/services/incident-management</a></p>
+<p><strong>E-mail</strong>: <a href="mailto:circ@jc3.doe.gov?subject=JC3%20E-mail">circ@jc3.doe.gov</a></p>
+<p>JC3 services are available to JC3-Joint Cybersecurity Coordination Center, and JC3 Contractors.</p>
+ </div></div></div>  </div>
+</div>
+    </div>
+  </div>
+</div>
+  </div>
+</div></div>
+                  </div>
+
+        
+              </div>
+    </div>
+
+  </div> 
+  <div class="footer-sticky">
+    <div id="footer-wrapper">
+      <div id="footer" class="container column-row">
+              </div>
+    </div>
+
+    <div id="footer-nav-wrapper">
+      <div id="footer-nav" class="container column-row">
+          <div class="region region-footer-nav">
+    <div class="block-energy-core-footer-main-menu-wrapper">
+  <div id="block-energy-core-footer-main-menu" class="block block-energy-core block-energy-core-footer-main-menu clearfix">
+
+          
+    <div class="content">
+      <div class="foooter_secondary_menu column last"><ul class="menu"><li class="first leaf"><a href="../../jobs.1.html" class=""><span>Careers &amp; Internships</span></a></li>
+<li class="leaf"><a href="../office-chief-information-officer/policy-and-regulations.1.html" class=""><span>Policy &amp; Regulation</span></a></li>
+<li class="last leaf"><a href="../about-us/contact-us.1.html" class=""><span>Contact Us</span></a></li>
+</ul></div>    </div>
+  </div>
+</div>
+<div class="block-energy-core-footer-site-name-wrapper">
+  <div id="block-energy-core-footer-site-name" class="block block-energy-core block-energy-core-footer-site-name clearfix">
+
+          
+    <div class="content">
+      <h5 class="site-name"><a href="../../energygov.html" class=""><span><img src="../../sites/all/themes/energy/images/energy_crest.png"><span class="logo-text">Energy.gov</span></span></a></h5>    </div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+
+    <div id="footer-legal-wrapper">
+      <div id="footer-legal" class="container column-row">
+          <div class="region region-footer-legal">
+    <div class="column first"><div class="contact-info"><div class="block-energy-core-footer-contact-info-wrapper">
+  <div id="block-energy-core-footer-contact-info" class="block block-energy-core block-energy-core-footer-contact-info clearfix">
+
+          
+    <div class="content">
+      <p>Office of the Chief Information Officer<br />1000 Independence Ave., SW<br />Washington, DC<br />202-586-0166</p>    </div>
+  </div>
+</div>
+</div></div><div class="block-menu-menu-footer-secondary-menu-wrapper">
+  <div id="block-menu-menu-footer-secondary-menu" class="block block-menu block-menu-menu-footer-secondary-menu clearfix">
+
+          
+    <div class="content">
+      <ul class="menu"><li class="first expanded"><a href="../../energygov.html" class=""><span>About this site</span></a><ul class="menu"><li class="first leaf"><a href="../../about-us/web-policies.1.html" class=""><span>Web Policies</span></a></li>
+<li class="leaf"><a href="../../about-us/web-policies/privacy.html" class=""><span>Privacy</span></a></li>
+<li class="leaf"><a href="../../diversity/services/protecting-civil-rights/no-fear-act.html" class=""><span>No Fear Act</span></a></li>
+<li class="leaf"><a href="https://www.osc.gov/Pages/DOW.aspx" class=""><span>Whistleblower Protection</span></a></li>
+<li class="leaf"><a href="../information-quality.html" class=""><span>Information Quality</span></a></li>
+<li class="leaf"><a href="../../open-government.html" class=""><span>Open Gov</span></a></li>
+<li class="last leaf"><a href="../accessibility-standard-statement.html" class=""><span>Accessibility</span></a></li>
+</ul></li>
+<li class="expanded"><a href="../../energygov.html" class=""><span>Energy Department</span></a><ul class="menu"><li class="first leaf"><a href="../../budget.html" class=""><span>Budget &amp; Performance</span></a></li>
+<li class="leaf"><a href="https://www.directives.doe.gov" class=""><span>Directives, Delegations &amp; Requirements</span></a></li>
+<li class="leaf"><a href="../../management/office-management/operational-management/freedom-information-act.1.html" class=""><span>FOIA</span></a></li>
+<li class="leaf"><a href="../../ig.1.html" class=""><span>Inspector General</span></a></li>
+<li class="leaf"><a href="../office-chief-information-officer/services/guidance/privacy.1.html" class=""><span>Privacy Program</span></a></li>
+<li class="last leaf"><a href="../../diversity/working-us/small-businesses/business-opportunity-sessions.html" class=""><span>Small Business</span></a></li>
+</ul></li>
+<li class="last expanded"><a href="../../energygov.html" class=""><span>Federal Government</span></a><ul class="menu"><li class="first leaf"><a href="http://www.whitehouse.gov" class=""><span>The White House</span></a></li>
+<li class="last leaf"><a href="http://www.usa.gov" class=""><span>USA.gov</span></a></li>
+</ul></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>   <script type="text/javascript" src="../../sites/all/themes/energy/scripts/modernizr/modernizr-custom.js@olx30o"></script>
+<script type="text/javascript" src="../../sites/prod/files/advagg_js/js__cCLTChfB28X41VSzdhvWEOHRvLudHi0Jq-Yiy8WS4js__HDT4EspDMg9LWp_kOVygCy8Z_x1W4mg34PdXT_t21Uw__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.js"></script>
+<script type="text/javascript" src="../../sites/prod/files/advagg_js/js__2fSLsqMXq9Tq836ak8GSps0-bN2MIXTAPbnPdTRaE2o__lJ5Iv3pIV9rQ9z9k8SyqldVnVEl6FA67UwOspHfVjoU__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.js"></script>
+<script type="text/javascript" src="../../sites/all/themes/energy/scripts/navigation.js@olx30o"></script>
+<script type="text/javascript" src="../../sites/all/themes/energy/scripts/energy.js@olx30o"></script>
+<script type="text/javascript" src="../../sites/prod/files/advagg_js/js__CMsZ2_0MzAPIJiOw4HtyX9WXIoHQFi6cF9wsWhHb7tM__o8yIxw7gClk9EvoaIRTiqvNaaOntoFAVmC_NmEjJrjY__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.js"></script>
+<script type="text/javascript" src="../../sites/prod/files/advagg_js/js__TH4o2zfrMgPJ_-EzXIwSW98Uj8RcJxkSLaQcZWGjB8o__QYg8eA88MagenI5baOIQ5GfALH6rMK_G1qPmeH67bVw__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"energy","theme_token":"TnbHHOBwdvghJ0_5tQUzpv54kmr0M-iLkD_vVkMPs_g","css":{"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/custom\/energy_media\/styles\/energy.media.css":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"\/\/fast.fonts.com\/t\/1.css?apiType=css\u0026projectid=b893a4ff-9ea3-4ce8-bf77-c8d3e3a3de97":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/energy_content\/css\/wysiwyg.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/modules\/contrib\/wysiwyg_tools_plus\/css\/wysiwyg_tools_plus.css":1,"sites\/all\/themes\/energy\/style\/energy.css":1},"js":{"sites\/all\/themes\/energy\/scripts\/loader.js":1,"sites\/all\/modules\/custom\/energy_core\/js\/event_tracking.js":1,"sites\/all\/modules\/custom\/energy_core\/js\/related_content_tracking.js":1,"sites\/all\/modules\/custom\/energy_core\/js\/breadcrumb_tracking.js":1,"sites\/all\/modules\/custom\/energy_core\/js\/context_callout_tracking.js":1,"sites\/all\/themes\/energy\/scripts\/modernizr\/modernizr-custom.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/themes\/energy\/scripts\/navigation.js":1,"sites\/all\/themes\/energy\/scripts\/energy.js":1,"sites\/all\/modules\/contrib\/ext_link_page\/ext_link_page.js":1,"sites\/all\/modules\/contrib\/image_caption\/image_caption.min.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/wysiwyg_tools_plus\/js\/tab_builder.js":1,"sites\/all\/themes\/energy\/scripts\/placeholder_shim.js":1,"sites\/all\/themes\/energy\/scripts\/oms.min.js":1,"sites\/all\/themes\/energy\/scripts\/jquery.flexslider.js":1}},"energy_content":{"nid":"379477","base_url":"https:\/\/energy.gov","toggle_tophero_frontpage":1},"drupal_ga_accounts":["UA-17192165-1"],"energyCore":{"pageTitle":"T-536: Cisco ASA Multiple Flaws Let Remote Users Deny Service and Bypass Security Controls "},"ext_link_page":{"pathLinkPage":"\/exit","messageTitle":"You are now leaving Energy.gov","messageBody":"\u003Cstrong\u003EYou will be automatically redirected to:\u003C\/strong\u003E\u003Cbr \/\u003E\n  [link]\u003Cbr \/\u003E\n  in [delay] seconds\u003Cspan class=\u0022ext-link-modal-message\u0022\u003E or you may click \u0022Continue to the Site\u0022\u003C\/span\u003E.\n","extLinkClass":"ext","directDisable":0,"delay":10,"siteName":"Department of Energy"},"urlIsAjaxTrusted":{"\/cio\/articles\/t-536-cisco-asa-multiple-flaws-let-remote-users-deny-service-and-bypass-security":true},"heroVertical":{"limitVertical":[]},"field_group":{"div":"full"}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="../../sites/all/themes/energy/scripts/loader.js@olx30o"></script>
+<script type="text/javascript" src="../../sites/prod/files/advagg_js/js__XeiKrhdt695uD01K6cH8pKmJACqqOeAqgTPtHqVUPPM__xyYcTgWEFETV_rKFRVD3vTYWDC6XP-WJCLoiuvgcTds__dDIbt8ufYXrJppXQKKZmaOn8fGxqGHfBxUr-hMXyu-U.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var _gaq = _gaq || [];
+_gaq.push(
+  
+  ['_setAccount', 'UA-17192165-1'],
+  ['_trackPageview'],
+  ['_setDomainName', '.energy.gov']
+);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--><!]]>
+</script>
+  <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOE"></script>
+</body>
+</html>

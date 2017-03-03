@@ -1,0 +1,1003 @@
+﻿{
+	"strategies": [{
+		"strategyId": 19,
+		"strategyTitle": "Commodity IT Contract Consolidation",
+		"decisionDate": "10/01/2011",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The elimination of multiple levels of sub-contractors will result in reduced contractor labor costs. The new contract started in April 2012. The cost avoidance was calculated by comparing the labor pool from the prior contact to the same labor pool under the new contract. This resulted in approximately 5% reduction in labor costs. Net cost avoidance reflected and reinvested into the mission of the various programs that used the contract.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": [
+			"019-000001183"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 1.5,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 10,
+		"strategyTitle": "Energy.gov Renewal Project",
+		"decisionDate": "08/01/2011",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Several offices successfully moved their websites to energy.gov.  Cost-Savings that Centralizes Web management; develops dynamic, interactive web pages; automates cross-publishing; and reduces operating costs.  Provides audiences with clear, consistent and reliable information and services, and empowers department employees, using simple tools and straightforward guidance, to communicate and interact with citizens and each other.  The cost savings were calculated by Public Affairs.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000001183"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 5,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 5,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 12,
+		"strategyTitle": "Implement Unified Communication and Collaboration",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Updates for this initiative include:  Eliminated end-of-life remote phone switch and deployed VOIP solution for part of DOE HQ. Eliminated ISDN by transitioning to IP for VTC. Enhanced mobility by deploying and supporting iPads and iPhones.  Cost avoidance was estimated by MA as the amount of travel savings that offices realized.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": [
+			"019-000001183"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.8,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.8,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 15,
+		"strategyTitle": "Dallas Field Office Closing",
+		"decisionDate": "01/01/2011",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities. This activity was completed in Feb 2012. The reported cost avoidances reflect total avoidances.",
+		"amountType": "Both",
+		"relatedUIIs": [
+			"019-000000000"
+		],
+		"fy2012": {
+			"amount": 0.02,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.02,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.02,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.02,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 14,
+		"strategyTitle": "Data Center Consolidation",
+		"decisionDate": "09/01/2011",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds made available to EERE general working capital fund.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000139"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.05,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.11,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.11,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 5,
+		"strategyTitle": "Data Center Mainframe Shutdown",
+		"decisionDate": "02/28/2012",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "The cost avoidance is $66K. To improve energy efficiency.  The IBM mainframe shutdown occurred in February 2012.   All cost avoidance recognized in FY12.  Funds redirected for use in other administrative activities.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.07,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 11,
+		"strategyTitle": "DOE at Your Service",
+		"decisionDate": "02/01/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Project went live July 2013 with online service catalog; incident, change, project, and asset management; and end-user self-service.   Savings include reduced administration and licensing costs, elimination of hosting costs, and some savings from automating status reporting.  Cost savings were reinvested in expanding the use and deployment of Service Now.",
+		"amountType": "Both",
+		"relatedUIIs": [
+			"019-000001183"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.03,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.06,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 13,
+		"strategyTitle": "Electronic Capital Planning and Investment Control System Cloud Migration",
+		"decisionDate": "11/01/2012",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "DOE saved as a result of the migration to GSA cloud, by not paying for Internal Application Hosting Environment costs and a separate C&A.  DOE successfully migrated eCPIC to the GSA cloud-hosted environment December 2012.  C&A costs are now included in DOE's service fee to GSA, so it is not an additional operating cost that we previously had to pay.  Funds redirected for use in other administrative activities.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000354"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.09,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.13,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.13,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 16,
+		"strategyTitle": "EIA Data Center Consolidation",
+		"decisionDate": "01/01/2012",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": " Funds redirected for use in other administrative activities.  This activity was completed in April 2013.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": [
+			"019-000000000"
+		],
+		"fy2012": {
+			"amount": 0.13,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.25,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.25,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.25,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 8,
+		"strategyTitle": "Enhance Mobile Connectivity at Nuclear Energy's Idaho Operation Office",
+		"decisionDate": "05/01/2012",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "The cost savings for FY 2014 will be $27K. Enhance mobile connectivity and reduce number of laptops through implementation of MobiKEY.  Savings were simply expended on other IT operational costs for the Idaho Operations Office.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000467",
+			"019-000000468",
+			"019-000000469",
+			"019-000000470",
+			"019-000000471",
+			"019-000000473",
+			"019-000000474"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.03,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.03,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 3,
+		"strategyTitle": "Fossil Energy's (FE) Document Management Consolidation",
+		"decisionDate": "06/01/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Reduce the number of document management systems and leverage ERP capabilities for better collaboration and data sharing across functional areas. Savings used to implement SAP Product Lifecycle Management module. Project completion in Q1FY14 with savings derived from stopping software maintenance support on the legacy system. The savings are total as it is the money saved from not renewing the software maintenance support for the old legacy system. This is a recurring savings.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000001109"
+		],
+		"fy2012": {
+			"amount": 0.05,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.15,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.18,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.21,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.24,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 2,
+		"strategyTitle": "Fossil Energy's (FE) Rocky Mountain Oilfield Test Center",
+		"decisionDate": "11/01/2011",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Per Congressional direction, RMOTC was decommissioned in FY2014 and the field site facility is closed. The Casper, Wyoming site (administrative office) reduced IT personnel by 2 FTEs as part of the disposition plan. DOE will completely close-out its activities in the Casper, Wyoming office by the end of calendar year 2015.  The savings was not absorbed by the Agency.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000236"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.23,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.23,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.15,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 4,
+		"strategyTitle": "Personal Computer (PC) Life Extension",
+		"decisionDate": "09/30/2012",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Used to extend life of PC/laptops; also reduced need to furlough DOE fed employees. Proceeding with the installation of the new hard drives in accordance with the projections.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": [
+			"019-000001132"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.18,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.18,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 18,
+		"strategyTitle": "Sciences Email & Collaboration Tools Consolidation",
+		"decisionDate": "07/10/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The overall cost savings is $2.5M.  However, with the overrun of $0.78M for Strategy 17 the ttl. SC consolidation savings is approximately $1.76M.  Implementation one-time costs were approximately $300K instead of the projected $500K.  AD & Exchange were migrated & consolidated. SharePoint 2013 has been rolled-out at HQ & is being completed for CH & OR.  Lync/Skype was also rolled out & in use across the SC complex. The Savings will be put toward upgrade of switches & refresh of workstations.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000001018",
+			"019-000001022",
+			"019-000001028"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.1,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 1.76,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 17,
+		"strategyTitle": "Sciences Network, Infrastructure, Storage, & Servers Consolidation",
+		"decisionDate": "07/10/2012",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "The over projected cost savings of $1.8 M for this consolidation activity has not been achieved at this time & is instead at an overrun of $0.78M.  Though the data centers (DC) consolidated into the prime DC located in OR, additional unplanned upgrades to firewalls/network security/storage EQUIP & Chassis were made over the last several years.  Additionally, the 6 mos delay in awarding the consolidated IT contract impacted the consolidation thus savings in CTR labor costs were not realized.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000001023",
+			"019-000001028",
+			"019-000001030",
+			"019-000001018"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.1,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.68,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 6,
+		"strategyTitle": "Server Virtualization",
+		"decisionDate": "01/01/2012",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "To be re-invested in the cleanup project. All cost avoidance recognized in FY12.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.1,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 7,
+		"strategyTitle": "Utilize DOE-wide IT Support Contract in Field",
+		"decisionDate": "07/01/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The cost savings for FY 2014 will be $75K. Leverage DOE’s IT support service contract to save Nuclear Energy’s Idaho Operations Office (NE-ID) 5-7% over prior contract. Savings were simply expended on other IT operational costs for the Idaho Operations Office.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000467",
+			"019-000000468",
+			"019-000000469",
+			"019-000000470",
+			"019-000000471",
+			"019-000000473",
+			"019-000000474"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.08,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.08,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 20,
+		"strategyTitle": "eTravel Savings",
+		"decisionDate": "03/01/2013",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "GSA awarded a new travel services contract in June 2012 to Concur Technologies Inc. DOE used this vehicle to issue a Task Order in March 2013, transitioning from GovTrip to Concur Government Edition (CGE). The transition was completed mid-March 2014. A 20% implementation discount was provided for implementing ahead of schedule, saving DOE $95,000.  Cost savings were reinvested into Integrated Data Warehouse to serve as the repository for the GovTrip travel data.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-999990116"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.1,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 21,
+		"strategyTitle": "Thin Client Deployment",
+		"decisionDate": "10/01/2010",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "To be invested in the cleanup project",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": [
+			"019-000001132"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.6,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.7,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.73,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 24,
+		"strategyTitle": "RMOTC Data Center Closure",
+		"decisionDate": "10/01/2013",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Site will be closed and fully decommissioned by 12/31/15 per Congressional mandate.  Savings will be returned to the Treasury. The site is closing and their funding is not being absorbed by the Agency.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000236"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.10,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.18,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 25,
+		"strategyTitle": "National Energy Technology Laboratory Data Center Consolidations",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Energy savings will be applied to the energy costs of the NETL High Performance Super Computer.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000563"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.18,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 23,
+		"strategyTitle": "Golden Field Office consolidation",
+		"decisionDate": "09/01/2013",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Savings will be applied to improving EERE records management, data warehouse reporting,  and collaboration tools.  Cost avoidance funds would be made available to EERE general working capital fund.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": [
+			"019-000000138",
+			"019-000000151"
+		],
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.83,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 26,
+		"strategyTitle": "Hillshire DC Closure",
+		"decisionDate": "10/01/2011",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "OCRWM funding was removed from the budget",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 1.6,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 27,
+		"strategyTitle": "Mound DC Closure",
+		"decisionDate": "10/01/2011",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0.07,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.07,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.07,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.07,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.07,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 28,
+		"strategyTitle": "Sahara DC Closure",
+		"decisionDate": "10/01/2011",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "OCRWM funding was removed from the budget",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 5.7,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		}
+	}, {
+		"strategyId": 22,
+		"strategyTitle": "Consolidation of Sun Solaris / Oracle Application Servers",
+		"decisionDate": "05/09/2014",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "It will consolidate 93 legacy servers to 5 servers and 5 SAN arrays into 1.  19 racks in the DOE-HQ AHE will be reduced 3 racks for an Oracle SuperSparc Cluster (SSC).  It will increase the security provided for PII data in one of the HSS/AU mission applications including FIPS compliant data-at-rest encryption.  73% savings in AHE floor space and a 70% reduction in power consumption for eDISS and SSIMS. Off-set budget reductions in FY2015-outyears.  It is approaching end-of-life.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": [
+			"019-000000313",
+			"019-000000338"
+		],
+		"fy2012": {
+			"amount": 0.01,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 30,
+		"strategyTitle": "BPA Data Center Consolidation",
+		"decisionDate": "05/24/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0.23,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.08,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.08,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.06,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.04,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 31,
+		"strategyTitle": "EM Data Center Consolidation (HPMC)",
+		"decisionDate": "05/24/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.12,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 32,
+		"strategyTitle": "SC Data Center Optimization (FNAL)",
+		"decisionDate": "05/24/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0.41,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.42,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.45,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.43,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.91,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 33,
+		"strategyTitle": "SC Data Center Consolidation (PNNL)",
+		"decisionDate": "05/24/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0.18,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.23,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 34,
+		"strategyTitle": "NNSA Data Center Consolidation (LNNL)",
+		"decisionDate": "05/24/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 2.07,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 1.53,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.18,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.05,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.04,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 35,
+		"strategyTitle": "NNSA Data Center Consolidation (SNL)",
+		"decisionDate": "05/24/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.46,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.22,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.14,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+}, {
+		"strategyId": 36,
+		"strategyTitle": "EM Data Center Consolidation (INL EDF)",
+		"decisionDate": "05/30/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.01,
+			"netOrGross": "Net"
+		}
+}, {
+		"strategyId": 37,
+		"strategyTitle": "LM Tuba City",
+		"decisionDate": "05/30/2016",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "Funds redirected for use in other administrative activities",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.01,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.01,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.01,
+			"netOrGross": "Net"
+		}
+	}]
+}
