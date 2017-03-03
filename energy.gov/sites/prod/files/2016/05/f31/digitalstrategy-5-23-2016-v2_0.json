@@ -1,0 +1,694 @@
+{
+	"agency": "DOE",
+	"generated": "2013-11-21 13:31:01",
+	"items": [{
+		"id": "2.1",
+		"parent": null,
+		"text": "Engage with customers to identify at least two existing major customer-facing services that contain high-value data or content as first-move candidates to make compliant with new open data, content, and web API policy.",
+		"due": "90 Days",
+		"due_date": "2012/08/21",
+		"fields": [{
+			"type": "select",
+			"name": "2-1-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "completed"
+		}],
+		"multiple": false
+	}, {
+		"id": "2.1.1",
+		"parent": "2.1",
+		"text": "Paragraph on customer engagement approach",
+		"due": "90 days",
+		"due_date": "2012/08/21",
+		"fields": [{
+			"type": "textarea",
+			"name": "2-1-1-customer-engagement-approach",
+			"label": "Paragraph on customer engagement approach",
+			"options": [],
+			"value": "The U.S. Department of Energy will use the DOE Web Council to obtain input on which projects should be selected for the August 23rd deadline. The DOE Web Council is made up from stakeholders across all branches of the complex and the National Labs. This council has expertise that will be invaluable for determining which projects should be prioritized for transparency and impact. We will solicit their feedback via email and / or in person meetings. In addition, we will utilize Energy.gov and it's social media features to solicit input from the public."
+		}],
+		"multiple": false
+	}, {
+		"id": "2.1.2",
+		"parent": "2.1",
+		"text": "Prioritized list of systems (datasets)",
+		"due": "90 days",
+		"due_date": "2012/08/21",
+		"fields": [{
+			"type": "text",
+			"name": "2-1-2-name",
+			"label": "System Name",
+			"options": [],
+			"value": ["ALTERNATIVE FUELING STATION LOCATION DATA - API ", "DOE GREEN ENERGY", "Electricity API"]
+		}, {
+			"type": "text",
+			"name": "2-1-2-description",
+			"label": "System Description",
+			"options": [],
+			"value": ["The underlying data used to populate the Alternative Fueling Station Locator tool is available via a Web service. This data set is considered the most trusted industry resource for location-based alternative fueling station data because of the long-standing collection process fostered by relationships with industry and fuel providers and its continuous and rigorous vetting process. Using this API, developers can access the data to build their own mobile apps, widgets, or tools. Developers may choose to mash up the station data set with numerous other data sets available on the Web to create useful products to fill industry-specific needs. http://developer.nrel.gov/doc/transportation", "This API data service provides green energy results from research and development conducted throughout the Department and by DOE-funded awards at universities. The service allows extraction of two data sets: green energy technical (approximately 40,000) reports and green energy patents (over 2,000). http://www.osti.gov/GreenEnergyXMLManual.pdf", "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. The Electricity API project will make this dataset publically available.Beta Site: http://www.eia.gov/beta/api/"]
+		}, {
+			"type": "select",
+			"name": "2-1-2-scope",
+			"label": "System Scope",
+			"options": [{
+				"label": "Internal",
+				"value": "internal"
+			}, {
+				"label": "External",
+				"value": "external"
+			}, {
+				"label": "Both",
+				"value": "both"
+			}],
+			"value": ["both", "both", "both"]
+		}, {
+			"type": "text",
+			"name": "2-1-2-customer",
+			"label": "Main Customer",
+			"options": [],
+			"value": ["Owners and operators of alternatively fueled vehicles", "Universities, Researchers and Businesses", "Researchers / businesses"]
+		}, {
+			"type": "text",
+			"name": "2-1-2-uii",
+			"label": "Unique Investment Identifier",
+			"options": [],
+			"value": ["019-000001183", "019-000000882", "019-000001161"]
+		}],
+		"multiple": true
+	}, {
+		"id": "7.1",
+		"parent": null,
+		"text": "Engage with customers to identify at least two existing priority customer-facing services to optimize for mobile use.",
+		"due": "90 Days",
+		"due_date": "2012/08/21",
+		"fields": [{
+			"type": "select",
+			"name": "7-1-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "completed"
+		}],
+		"multiple": false
+	}, {
+		"id": "7.1.1",
+		"parent": "7.1",
+		"text": "Paragraph on customer engagement approach",
+		"due": "90 days",
+		"due_date": "2012/08/21",
+		"fields": [{
+			"type": "textarea",
+			"name": "7-1-1-customer-engagement-approach",
+			"label": "Paragraph on customer engagement approach",
+			"options": [],
+			"value": "The U.S. Department of Energy will use the DOE Web Council to obtain input on which projects should be selected for the August 23rd deadline. The DOE Web Council is made up from stakeholders across all branches of the complex and the National Labs. This council has expertise that will be invaluable for determining which projects should be prioritized for transparency and impact. We will solicit their feedback via email and / or in person meetings. In addition, we will utilize Energy.gov and it's social media features to solicit input from the public."
+		}],
+		"multiple": false
+	}, {
+		"id": "7.1.2",
+		"parent": "7.1",
+		"text": "Prioritized list of systems (datasets)",
+		"due": "90 days",
+		"due_date": "2012/08/21",
+		"fields": [{
+			"type": "text",
+			"name": "7-1-2-name",
+			"label": "System Name",
+			"options": [],
+			"value": ["MOBILE SITE FOR JOBS AT THE ENERGY DEPARTMENT", "ENERGY.GOV", "ENERGY CAREER GAME"]
+		}, {
+			"type": "text",
+			"name": "7-1-2-description",
+			"label": "System Description",
+			"options": [],
+			"value": ["The site features a searchable data pull from USAJobs of the currently available Energy Department job opportunities. It is updated daily, allowing prospective employees to search for the latest opportunities wherever and whenever they want. In addition to the job search capabilities, there are resources available to the public concerning student, veteran, and other office programs/opportunities.", "The Energy Department\u2019s main site, Energy.gov and its contents, are now available on the go. This allows users to access the Energy Departments\u2019 resources over a variety of mobile devices such as smart phones and tablets. The American public is becoming increasingly mobile and the Energy department is responding to this demand.", "This is a fun, fast-paced puzzle/strategy game intended to generate interest and recruit the next generation of individuals and entrepreneurs in the energy industry. In the game, the player is tasked with managing resource networks between cities, power plants, homes, and businesses to provide power to these buildings. The game will educate players about the unique challenges and economic opportunities faced in meeting America\u2019s energy needs and transitioning to a clean energy future. It will give players a better understanding of the career opportunities in the energy sector as well as the Energy Department. The game is being developed for the Department free of charge by college students who are working with the Department\u2019s Office of Human Capital. The game will also incorporate a plug-in that will allow players to post their scores to Facebook. Expected to be ready for beta release by October 2012."]
+		}, {
+			"type": "select",
+			"name": "7-1-2-scope",
+			"label": "System Scope",
+			"options": [{
+				"label": "Internal",
+				"value": "internal"
+			}, {
+				"label": "External",
+				"value": "external"
+			}, {
+				"label": "Both",
+				"value": "both"
+			}],
+			"value": ["both", "both", "both"]
+		}, {
+			"type": "text",
+			"name": "7-1-2-customer",
+			"label": "Main Customer",
+			"options": [],
+			"value": ["Job Seekers", "Public", "External"]
+		}, {
+			"type": "text",
+			"name": "7-1-2-uii",
+			"label": "Unique Investment Identifier",
+			"options": [],
+			"value": ["019-000000297", "019-000001183", "Public"]
+		}],
+		"multiple": true
+	}, {
+		"id": "4.2",
+		"parent": null,
+		"text": "Establish an agency-wide governance structure for developing and delivering digital services",
+		"due": "6 months",
+		"due_date": "2012/11/23",
+		"fields": [{
+			"type": "select",
+			"name": "4-2-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "completed"
+		}, {
+			"type": "textarea",
+			"name": "4-2-policy",
+			"label": "Paragraph on Governance",
+			"options": [],
+			"value": "The Department of Energy (DOE) Web Managers Council (Web Council) was created in December 2010 as a way for DOE Web Managers to collaborate across programs, and share common challenges, ideas, and best practices. Members work in various Program Offices, National Laboratories and Staff Offices that include representatives from Policy, Communications, Public Affairs, and Chief Information Officer (CIO) staffs."
+		}, {
+			"type": "text",
+			"name": "4-2-link",
+			"label": "URL to Governance Document",
+			"options": [],
+			"value": "http://energy.gov/doe-web-managers-council-charter"
+		}],
+		"multiple": false
+	}, {
+		"id": "5.2",
+		"parent": null,
+		"text": "Develop an enterprise-wide inventory of mobile devices and wireless service contracts",
+		"due": "6 months",
+		"due_date": "2012/11/23",
+		"fields": [{
+			"type": "select",
+			"name": "5-2-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "completed"
+		}],
+		"multiple": false
+	}, {
+		"id": "5.2.1",
+		"parent": "5.2",
+		"text": "Develop wireless and mobile inventory",
+		"due": "6 months",
+		"due_date": "2012/11/23",
+		"fields": [{
+			"type": "text",
+			"name": "5-2-1-component",
+			"label": "Bureau/Component",
+			"options": [],
+			"value": [" 05, 10,20,50, 60"]
+		}, {
+			"type": "select",
+			"name": "5-2-1-inventory-status",
+			"label": "Inventory Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": ["in-progress"]
+		}],
+		"multiple": true
+	}, {
+		"id": "8.2",
+		"parent": null,
+		"text": "Implement performance and customer satisfaction measuring tools on all .gov websites",
+		"due": "8 months",
+		"due_date": "2013/1/22",
+		"fields": [{
+			"type": "select",
+			"name": "8-2-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "in-progress"
+		}],
+		"multiple": false
+	}, {
+		"id": "8.2.1",
+		"parent": "8.2",
+		"text": "Implement performance measurement tool",
+		"due": "8 months",
+		"due_date": "2013/1/22",
+		"fields": [{
+			"type": "select",
+			"name": "8-2-1-tool",
+			"label": "Implemented Digital Analytics Program",
+			"options": [{
+				"label": "Yes",
+				"value": "yes"
+			}, {
+				"label": "No",
+				"value": "no"
+			}],
+			"value": "yes"
+		}, {
+			"type": "textarea",
+			"name": "8-2-1-implementation",
+			"label": "If Not, Describe Implementation",
+			"options": [],
+			"value": null
+		}, {
+			"type": "text",
+			"name": "8-2-1-percent",
+			"label": "Percent of websites covered",
+			"options": [],
+			"value": "16%"
+		}, {
+			"type": "text",
+			"name": "8-2-1-url",
+			"label": "URL of performance data",
+			"options": [],
+			"value": "www.google.com/analytics"
+		}],
+		"multiple": false
+	}, {
+		"id": "8.2.2",
+		"parent": "8.2",
+		"text": "Implement customer satisfaction tool",
+		"due": "8 months",
+		"due_date": "2013/1/22",
+		"fields": [{
+			"type": "textarea",
+			"name": "8-2-2-implementation",
+			"label": "Describe Implementation",
+			"options": [],
+			"value": "Able to add questions to pages via CMS."
+		}, {
+			"type": "text",
+			"name": "8-2-2-url",
+			"label": "URL of performance data",
+			"options": [],
+			"value": null
+		}],
+		"multiple": false
+	}, {
+		"id": "1.2",
+		"parent": null,
+		"text": "Ensure all new IT systems follow the open data, content, and web API policy and operationalize agency.gov/developer pages",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "select",
+			"name": "1-2-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "in-progress"
+		}],
+		"multiple": false
+	}, {
+		"id": "1.2.1",
+		"parent": "1.2",
+		"text": "Document policy for architecting new IT systems for openness by default",
+		"due": "6 months",
+		"due_date": "2012/11/23",
+		"fields": [{
+			"type": "textarea",
+			"name": "1-2-1-description",
+			"label": "Describe policy",
+			"options": [],
+			"value": "DOE is implementing a three-pillar approach -- Transform, Protect and Advance \u2013 as part of this broader strategy, to manage the information life cycle. This approach will promote interoperability and openness, as well as drive more secure, cost-effective, and efficient IT infrastructure and services. DOE is transforming its IT architecture to improve our information creation and collection data management processes and to promote system design and release practices to make our information more agile and flexible. As part of this broader effort, the Department is working to consolidate and connect its enterprise networks and services, helping to streamline, simplify, and reduce the cost of IT solutions and acquisition. DOE is working collaboratively within the Department to establish enterprise-wide architecture, policy and standards that give the flexibility to address different devices and platforms and make sure the Department is responding to IT needs quickly and effectively. Finally, DOE has streamlined its IT governance framework to provide more effective management (e.g. DOE Web Council) to develop open standards. The Department will continue to use best practices to safeguard information.  (http://energy.gov/cio/articles/transform-protect-and-advance-doe-s-it-modernization-strategy)  "
+		}],
+		"multiple": false
+	}, {
+		"id": "1.2.4",
+		"parent": "1.2",
+		"text": "Develop Data Inventory Schedule - Summary",
+		"due": "17 months",
+		"due_date": "2013/10/23",
+		"fields": [{
+			"type": "textarea",
+			"name": "1-2-4-data-inventory-schedule-summary",
+			"label": "Summarize the Inventory Schedule",
+			"options": [],
+			"value": "The attached schedule provides a rough outline of the activities the Department of Energy will undertake from Nov 2013 - Nov 2014 to enrich, expand and open the Department's data inventory."
+		}],
+		"multiple": false
+	}, {
+		"id": "1.2.5",
+		"parent": "1.2",
+		"text": "Develop Data Inventory Schedule - Milestones",
+		"due": "17 months",
+		"due_date": "2013/10/23",
+		"fields": [{
+			"type": "text",
+			"name": "1-2-5-data-inventory-schedule-milestones-title",
+			"label": "Title",
+			"options": [],
+			"value": ["Develop Initial Enterprise Data Inventory (EDI)", "Post Initial Public Data Listings", "Update the Enterprise Data Inventory on a Quarterly Basis", "Quarterly Update to EDI", "Quarterly Update to EDI", "Quarterly Update to EDI", "Quarterly Update to EDI", "Provide Monthly Updates to Public Data Listings"]
+		}, {
+			"type": "textarea",
+			"name": "1-2-5-data-inventory-schedule-milestones-description",
+			"label": "Description",
+			"options": [],
+			"value": ["Create Enterprise Data Inventory and post JSON File to OMB MAX site", "Review Enterprise Data Inventory and post non-sensitive datasets on DOE's website", "Collaborate with Program and Staff Offices to ensure all data assets have been identified and accounted for in the inventory", "Work with 3 to 5 Program/Staff Offices to collect data assets and update the inventory.", "Work with 3 to 5 Program/Staff Offices to collect data assets and update the inventory.", "Work with 3 to 5 Program/Staff Offices to collect data assets and update the inventory.", "Work with 3 to 5 Program/Staff Offices to collect data assets and update the inventory.", "Post new datasets to Energy's web site on a monthly basis"]
+		}, {
+			"type": "text",
+			"name": "1-2-5-data-inventory-schedule-milestones-date",
+			"label": "Milestone Date",
+			"options": [],
+			"value": ["2013-11-29", "2013-11-29", "2014-11-01", "2014-02-28", "2014-05-31", "2014-08-31", "2014-11-01", "Monthly"]
+		}, {
+			"type": "textarea",
+			"name": "1-2-5-data-inventory-schedule-milestones-expand-description",
+			"label": "Description of how this milestone expands the Inventory",
+			"options": [],
+			"value": ["Develop a robust, enterprise-wide data inventory", "Add new datasets and make progress in developing the EDI", "Add new datasets and make progress in developing the EDI", "Add new datasets and make progress in developing the EDI", "Add new datasets and make progress in developing the EDI", "Expand the number of datasets available to the public"]
+		}, {
+			"type": "textarea",
+			"name": "1-2-5-data-inventory-schedule-milestones-enrich-description",
+			"label": "Description of how this milestone enriches the Inventory",
+			"options": [],
+			"value": ["Develop a single repository to document and categorize the Department's enterprise data assets", "Validate publically-available datasets and enhance metadata to improve public access to information", "Add new datasets and make progress in developing the EDI", "Add new datasets and make progress in developing the EDI", "Add new datasets and make progress in developing the EDI", "Add new datasets and make progress in developing the EDI"]
+		}, {
+			"type": "textarea",
+			"name": "1-2-5-data-inventory-schedule-milestones-open-description",
+			"label": "Description of how this milestone opens the Inventory",
+			"options": [],
+			"value": ["Validate publically-available datasets and enhance metadata to improve public access to information", "Expand the number of datasets available to the public"]
+		}],
+		"multiple": true
+	}, {
+		"id": "1.2.6",
+		"parent": "1.2",
+		"text": "Develop Customer Feedback Process",
+		"due": "17 months",
+		"due_date": "2013/10/23",
+		"fields": [{
+			"type": "text",
+			"name": "1-2-6-customer-feedback-process",
+			"label": "Describe the agency's process to engage with customers",
+			"options": [],
+			"value": "The U.S. Department of Energy will use the energy.gov platform and 3rd party social media to engage with customers and collect input on data. Specifically, energy.gov/data and energy.gov/developer will contain articles and blog posts that may be used to directly seek information from the public in compliance with the Memorandum on Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act. In addition, the DOE Web Council is made up from stakeholders across all branches of the complex and the National Labs. This council has expertise that will be invaluable for determining which projects should be prioritized for transparency and impact. We will solicit their feedback via email and / or in person meetings.  Program offices may use additional means to best engage their specific stakeholders.  Metrics may be collected in a variety of ways, including web analytics."
+		}],
+		"multiple": false
+	}, {
+		"id": "1.2.7",
+		"parent": "1.2",
+		"text": "Develop Data Publication Process",
+		"due": "17 months",
+		"due_date": "2013/10/23",
+		"fields": [{
+			"type": "textarea",
+			"name": "1-2-7-data-publication-process",
+			"label": "Describe the agency's data publication process",
+			"options": [],
+			"value": "The Department of Energy's data release procedures are available at http://energy.gov/node/771991"
+		}],
+		"multiple": false
+	}, {
+		"id": "2.2",
+		"parent": null,
+		"text": "Make high-value data and content in at least two existing, major customer-facing systems available through web APIs, apply metadata tagging and publish a plan to transition additional high-value systems",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "select",
+			"name": "2-2-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "completed"
+		}],
+		"multiple": false
+	}, {
+		"id": "2.2.1",
+		"parent": "2.1",
+		"text": "Publish plan on future activity",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "textarea",
+			"name": "2-2-1-describe",
+			"label": "Describe policy",
+			"options": [],
+			"value": "DOE is committed to providing openness and transparency of its data.  The Energy Data Initiative has announced a milestone with the creation of a new resource hub for open energy data, a scalable web portal.    Energy.gov/data includes targeted features for different groups of data customers.  For coders, this resource hub includes featured developer tools such as new Application Programming Interfaces (APIs).  There will also be features on popular open datasets and search tools that are valuable for students, regulators, and energy professionals.  Government managers of open data, particularly those that are familiar with the Data.gov platform, will soon take advantage of new \u201cfederated search\u201d capabilities by leveraging a growing data catalogue.  Finally, entrepreneurs and job creators will be able to see exactly how open data is fueling economic growth and even contribute their own stories if they so choose.    The new resource hub will continue to grow with the community it supports.  Planned features include improved interoperability with other data platforms like energy.data.gov, openei.org and the National Library of Energy.  There will also be frequent updates from Energy Data Jams leading up to the annual Energy Datapalooza.  The content and capabilities will grow along with a portfolio of \u201cagency.gov/data\u201d sites that will be created by other Federal agencies in the coming months.  Ultimately, the goals of this coordinated effort are to improve our level of customer service for open data as well to empower innovators to create and sustain valuable products that help all Americans.   "
+		}],
+		"multiple": false
+	}, {
+		"id": "2.2.2",
+		"parent": "2.1",
+		"text": "Make 2+ systems (datasets) available via web APIs with metadata tags",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "text",
+			"name": "2-2-2-system",
+			"label": "Name of system",
+			"options": [],
+			"value": ["ALTERNATIVE FUELING STATION LOCATION DATA - API", "DOE GREEN ENERGY", "Electricity API", "OpenEI"]
+		}, {
+			"type": "textarea",
+			"name": "2-2-2-description",
+			"label": "Description of system",
+			"options": [],
+			"value": ["The underlying data used to populate the Alternative Fueling Station Locator tool is available via a Web service. This data set is considered the most trusted industry resource for location-based alternative fueling station data because of the long-standing collection process fostered by relationships with industry and fuel providers and its continuous and rigorous vetting process. Using this API, developers can access the data to build their own mobile apps, widgets, or tools. Developers may choose to mash up the station data set with numerous other data sets available on the Web to create useful products to fill industry-specific needs. ", "This API data service provides green energy results from research and development conducted throughout the Department and by DOE-funded awards at universities. The service allows extraction of two data sets: green energy technical (approximately 40,000) reports and green energy patents (over 2,000). ", "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policy making, efficient markets, and public understanding of energy and its interaction with the economy and the environment. The Electricity API project will make this data set publicly available.", "OpenEI continues to strive to be a global leader in open-data source for energy information--specifically analyses on renewable energy and energy efficiency. The platform is a Wiki, similar to Wikipedias Wiki, which many users are already familiar with and include an API. Users can view, edit, and add data, \" and download data for free. "]
+		}, {
+			"type": "select",
+			"name": "2-2-2-scope",
+			"label": "Scope of system",
+			"options": [{
+				"label": "Internal",
+				"value": "internal"
+			}, {
+				"label": "External",
+				"value": "external"
+			}, {
+				"label": "Both",
+				"value": "both"
+			}],
+			"value": ["both", "both", "both", "both"]
+		}, {
+			"type": "text",
+			"name": "2-2-2-customers",
+			"label": "Main Customers",
+			"options": [],
+			"value": ["Owners and operators of alternatively fueled vehicles", "Universities, Researchers and Businesses", "Researchers / businesses", "Researchers / businesses"]
+		}, {
+			"type": "text",
+			"name": "2-2-2-uii",
+			"label": "Unique Investment Identifier",
+			"options": [],
+			"value": ["019-000001183", "019-000000882", "019-000001161", "019-000001183"]
+		}, {
+			"type": "text",
+			"name": "2-2-2-url",
+			"label": "API Link",
+			"options": [],
+			"value": ["http://developer.nrel.gov/doc/alt-fuel-stations-v1", "http://www.osti.gov/GreenEnergyXMLManual.pdf", "http://www.eia.gov/beta/api/", "https://www.openei.org"]
+		}],
+		"multiple": true
+	}, {
+		"id": "5.3",
+		"parent": null,
+		"text": "Evaluate the government-wide contract vehicles in the alternatives analysis for all new mobile-related procurements",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "select",
+			"name": "5-3-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "in-progress"
+		}, {
+			"type": "textarea",
+			"name": "5-3-policy",
+			"label": "Describe Implementation",
+			"options": [],
+			"value": "Driving down costs of mobile devices and services (from IRM Strategic Plan)    DOE is improving usability, availability, and accessibility of services including the optimization of services for mobile use through the Right Path initiative. The RightPath initiative was jointly established by the DOE and NNSA to deliver an efficient and modernized IT infrastructure that enables a virtual workforce where employees may work anywhere, anytime, from any device while enhancing collaboration, business intelligence, and the agency\u2019s cybersecurity posture by combining transformative changes in people, processes, and technology. These capabilities provide for leaner government, improve employee satisfaction and retention, enhance the agency\u2019s cyber security posture, improve energy efficiency, and reduce long-term infrastructure needs for housing employees.    Through RightPath, DOE and NNSA are focusing an enterprise approach on non-differentiated Federal IT. Examples include: core desktop computing, storage, and connectivity provided by datacenters and server rooms; mainframes/servers; telecommunications; desktop systems; mobile devices; email; non-email collaboration tools; identity access and management; corporate cybersecurity services; and web hosting infrastructure.    Details of this effort are listed on page 2 of the DOE PortfolioStat Commodity IT Consolidation Plan v2_091112.  "
+		}],
+		"multiple": false
+	}, {
+		"id": "6.3",
+		"parent": null,
+		"text": "Ensure all new digital services follow digital services and customer experience improvement guidelines",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "select",
+			"name": "6-3-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "in-progress"
+		}, {
+			"type": "textarea",
+			"name": "6-3-policy",
+			"label": "Describe Implementation",
+			"options": [],
+			"value": "The Department is committed to implanting the Federal Digital Strategy and maintaining a digital strategy page   (http://energy.gov/sites/prod/files/digitalstrategy_1.html) to track our progress in establishing those goals. In addition, the Department is at the forefront attaining digital strategy goals. The Department has established energy.gov/data and energy.gov/developer websites to provide easy access to a growing list of data sets, APIs, and other digital tools. The Department is also a full partner in contributing agency energy performance data to the interagency Data.Gov website (http://energy.data.gov). DOE has a Customer Service Plan (http://energy.gov/sites/prod/files/DOE_Customer_Service_Plan.pdf)  that outlines our vision for customer service and identifies areas for growth and improvement. For example, Energy.gov has seen a nearly 200 percent increase in traffic since moving to a new open source Drupal-based CMS and migrating nearly all program office sites to the platform. Beyond achieving significant cost savings by reducing duplicative contracts, the consolidation of sites has improved customer service by allowing a single web destination for most public services and information.    DOE evaluates existing and planned customer facing services using our analytics tools and thru our established DOE web council. The Department uses Google analytics and various web based surveys to collect customer feedback. This feedback is used to drive CMS improvements and other web reform.  The Department published its customer service plan at: (http://energy.gov/sites/prod/files/DOE_Customer_Service_Plan.pdf)  "
+		}],
+		"multiple": false
+	}, {
+		"id": "7.2",
+		"parent": null,
+		"text": "Optimize at least two existing priority customer-facing services for mobile use and publish a plan for improving additional existing services",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "select",
+			"name": "7-2-status",
+			"label": "Overall Status",
+			"options": [{
+				"label": "Not Started",
+				"value": "not-started"
+			}, {
+				"label": "In Progress",
+				"value": "in-progress"
+			}, {
+				"label": "Completed",
+				"value": "completed"
+			}],
+			"value": "completed"
+		}, {
+			"type": "textarea",
+			"name": "7-2-policy",
+			"label": "Describe Implementation",
+			"options": [],
+			"value": "Mobile Optimization of Existing Systems (from EMR)    The DOE Office of the CIO is developing a Departmental directive to establish a broad framework of permitted and prohibited mobile technology for federal employees.  The directive will be developed through an Integrated Project Team of subject matter experts from across the DOE federal and contractor community, and will be coordinated through the DOE IT governance process.    The framework will include a Bring Your Own Device (BYOD) effort across the federal complex that will change the way DOE works -- empowering employees to do their jobs in a next-generation workspace.  DOE enterprise applications will be supported in all environments regardless of hardware, operating system or location.  DOE has developed a BYOD Toolkit that is both consistent with OMB\u2019s Toolkit and is reflective of DOE\u2019s unique operating environments. The BYOD Toolkit will provides a wealth of data and information that can be used across both our Federal and contractor communities for tailored policies and practices based upon respective missions and consistent with our Enterprise Risk Management strategy. DOE has recently completed the development of enterprise-wide inventory of mobile devices and wireless contracts. The next step is to develop the wireless and mobile policy and implementation plan. "
+		}],
+		"multiple": false
+	}, {
+		"id": "7.2.1",
+		"parent": "7.2.",
+		"text": "Report on services",
+		"due": "12 months",
+		"due_date": "2013/05/23",
+		"fields": [{
+			"type": "text",
+			"name": "7-2-1-name",
+			"label": "Service Name",
+			"options": [],
+			"value": ["MOBILE SITE FOR JOBS AT THE ENERGY DEPARTMENT", "ENERGY.GOV", "ENERGY CAREER GAME"]
+		}, {
+			"type": "textarea",
+			"name": "7-2-1-description",
+			"label": "Service Description",
+			"options": [],
+			"value": ["The site features a searchable data pull from USAJobs of the currently available Energy Department job opportunities. It is updated daily, allowing prospective employees to search for the latest opportunities wherever and whenever they want. In addition to the job search capabilities, there are resources available to the public concerning student, veteran, and other office programs/opportunities.", "The Energy Department\u2019s main site, Energy.gov and its contents, are now available on the go. This allows users to access the Energy Departments\u2019 resources over a variety of mobile devices such as smart phones and tablets. The American public is becoming increasingly mobile and the Energy department is responding to this demand.", "This is a fun, fast-paced puzzle/strategy game intended to generate interest and recruit the next generation of individuals and entrepreneurs in the energy industry. In the game, the player is tasked with managing resource networks between cities, power plants, homes, and businesses to provide power to these buildings. The game educates players about the unique challenges and economic opportunities faced in meeting America\u2019s energy needs and transitioning to a clean energy future. It gives the players a better understanding of the career opportunities in the energy sector as well as the Energy Department. The game was developed for the Department free of charge by college students who are working with the Department\u2019s Office of Human Capital.  Currently the game is being beta tested by students and will be publicly released in the near future.     The game will also incorporate a plug-in that will allow players to post their scores to Facebook. "]
+		}, {
+			"type": "select",
+			"name": "7-2-1-scope",
+			"label": "System Scope",
+			"options": [{
+				"label": "Internal",
+				"value": "internal"
+			}, {
+				"label": "External",
+				"value": "external"
+			}, {
+				"label": "Both",
+				"value": "both"
+			}],
+			"value": ["both", "both", "external"]
+		}, {
+			"type": "text",
+			"name": "7-2-1-customers",
+			"label": "Primary customers",
+			"options": [],
+			"value": ["Job Seekers", "Public", "Public"]
+		}, {
+			"type": "text",
+			"name": "7-2-1-uii",
+			"label": "Unique Investment Identifier",
+			"options": [],
+			"value": ["019-000000297", "019-000001183", "019-000000297"]
+		}, {
+			"type": "text",
+			"name": "7-2-1-url",
+			"label": "URL of service",
+			"options": [],
+			"value": ["m.jobs.energy.gov", "energy.gov"]
+		}],
+		"multiple": true
+	}]
+}
