@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Direct Current - An Energy.gov Podcast</title>
+    <link>https://energy.gov/podcasts/direct-current-energygov-podcast</link>
+    <language>en</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <copyright>Department of Energy</copyright>
+    <itunes:author>Energy.gov Digital Team</itunes:author>
+    <itunes:subtitle> <h5> </h5>
+<h5>HOW TO SUBSCRIBE</h5>
+<p>To subscribe using iTunes, <a href="/exit?url=https%3A//itunes.apple.com/us/podcast/direct-current-energy.gov/id1110797865" rel="nofollow">click here</a>.</p>
+<p>To subscribe using another podcatcher, copy this URL: <a href="/podcasts/direct-current-energygov-podcast?format=itunes">http://energy.gov/podcasts/direct-current-energygov-podcast?format=itunes</a></p>
+<p>Also, <a href="/subscribe-energygov-updates">subscribe to our email newsletter</a> and get notified when a new episode is available.</p>
+ </itunes:subtitle>
+    <itunes:summary><![CDATA[ <p>Direct Current is a podcast about energy -- the kind that lights our homes, powers our lives and shapes our world. From the U.S. Department of Energy’s digital team in Washington, D.C., Direct Current brings you fresh, insightful stories of how we generate and use electricity, what that means for the planet and the cutting-edge science that’s driving a global energy revolution.</p>
+ ]]></itunes:summary>
+    <description><![CDATA[ <p>Direct Current is a podcast about energy -- the kind that lights our homes, powers our lives and shapes our world. From the U.S. Department of Energy’s digital team in Washington, D.C., Direct Current brings you fresh, insightful stories of how we generate and use electricity, what that means for the planet and the cutting-edge science that’s driving a global energy revolution.</p>
+ ]]></description>
+    <itunes:owner>
+      <itunes:name>directcurrent@hq.doe.gov</itunes:name>
+      <itunes:email>directcurrent@hq.doe.gov</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://energy.gov/sites/prod/files/itunes-icon-1400px-square.jpg" />
+    <itunes:category text="Government &amp; Organizations"/>
+    <item>
+      <title>Episode 1: Tackling the Hidden Costs of Rooftop Solar</title>
+      <itunes:author>Energy.gov Digital Team</itunes:author>
+      <itunes:subtitle>We investigate the sneaky &quot;soft costs&quot; driving up the price of rooftop solar, delve into the archives for a look at the turbulent times around the Energy Department&#039;s creation, and contemplate some alternatives to the name &quot;Direct Current.&quot;</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>Join our hosts, Matt Dozier and Allison Lantero, as they investigate the sneaky "soft costs" driving up the price of rooftop solar, delve into the archives for a look at the turbulent times around the Energy Department's creation, and contemplate some alternatives to the name "Direct Current."</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Ep1%20Art_1.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/05/02/01%20Ep.%201_%20Tackling%20the%20Hidden%20Costs%20of%20Rooftop%20Solar_0.mp3" length="50087898" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/05/02/01%20Ep.%201_%20Tackling%20the%20Hidden%20Costs%20of%20Rooftop%20Solar_0.mp3</guid>
+      <pubDate>Tue, 03 May 2016 15:23:22 UTC</pubDate>
+      <itunes:duration>00:24:36</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 1.5: Direct Current Teaser</title>
+      <itunes:author>Energy.gov Digital Team</itunes:author>
+      <itunes:subtitle>A word of thanks, and a sneak preview of what’s coming up on future episodes of Direct Current.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>A word of thanks, and a sneak preview of what’s coming up on future episodes of Direct Current.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/itunes-icon-1400px-square.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/05/24/Episode%201.5_%20Direct%20Current%20Teaser.mp3" length="8445767" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/05/24/Episode%201.5_%20Direct%20Current%20Teaser.mp3</guid>
+      <pubDate>Sat, 25 Jun 2016 13:25:21 UTC</pubDate>
+      <itunes:duration>00:03:25</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 2: The Clean Energy Geek Squad</title>
+      <itunes:author>Energy.gov Digital Team</itunes:author>
+      <itunes:subtitle>We call a &quot;help desk&quot; that provides clean energy policy assistance to governments worldwide, talk to Nicky Phear, who cycles across Montana teaching students about climate change, and propose a few new units of energy -- starting with a burrito.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>When you have a computer problem, you call tech support. When you have a ghost problem you call Ghostbusters. But who do you call when you have a clean energy problem?</p>
+<p>In this episode of Direct Current - An Energy.gov Podcast, Matt calls up the Clean Energy Solutions Center, a "help desk" that provides free expert advice on clean energy policy to governments all over the world.</p>
+<p>Allison talks to Nicky Phear, a professor who cycles hundreds of miles across Montana to teach her students about climate change. Nicky just received a big award at the C3E Women in Clean Energy Symposium for her education work, and she's basically an all-around awesome person.</p>
+<p>And Dan tries to convince Paul that there is a better way to measure energy -- starting with the humble burrito.</p>
+<p> </p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Album%20Art%20Ep%202.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/06/03/Direct%20Current%20Ep%202_%20The%20Clean%20Energy%20Geek%20Squad.mp3" length="47134629" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/06/03/Direct%20Current%20Ep%202_%20The%20Clean%20Energy%20Geek%20Squad.mp3</guid>
+      <pubDate>Sat, 25 Jun 2016 13:25:21 UTC</pubDate>
+      <itunes:duration>00:31:29</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 3: Power To The People</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>How does power get to the people who use it?  We explore that question and talk about the electric grid -- what it is, how it works, and what happens when the power goes out.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>How does power get to the people who use it? In this episode we talk about one of the greatest engineering accomplishments of the 20th century -- something we use every day, but often take for granted: the electric grid. </p>
+<p>We talk to an expert about how power travels to our electric sockets, and hear about how one city -- hit with major power outages during Superstorm Sandy in 2012 -- is preparing for the next storm with something called a microgrid.</p>
+<p>You can find lots more information, graphics and videos related to this episode on our blog: <a href="/direct-current-episode-3-power-people">http://energy.gov/direct-current-episode-3-power-people</a></p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/ep%203Pod%20art.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/07/11/Episode%203_%20Power%20to%20the%20People%20%281%29.mp3" length="39932641" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/07/11/Episode%203_%20Power%20to%20the%20People%20%281%29.mp3</guid>
+      <pubDate>Mon, 11 Jul 2016 22:41:52 UTC</pubDate>
+      <itunes:duration>00:19:33</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 4: Backronyms</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>Not all acronyms are created equal. Join us on a journey into the colorful world of government &quot;backronyms,&quot; where there&#039;s more to a name than just a jumble of letters.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>Not all acronyms are created equal. Join us on a journey into the colorful world of government "backronyms," where there's more to a name than just a jumble of letters.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Episode%204%20Backronyms.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/08/10/Episode%204_%20Backronyms.mp3" length="44076652" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/08/10/Episode%204_%20Backronyms.mp3</guid>
+      <pubDate>Wed, 10 Aug 2016 17:07:49 UTC</pubDate>
+      <itunes:duration>00:21:37</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 5: The Future of Cool</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>Paul and Simon lead the way to the future of cooling, where new technologies like magnet-based air conditioning and personalized robots will transform how we fight climate change, save on energy costs and stay comfortable.
+</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>On this episode of Direct Current, we're taking you to the future of cooling, where new technologies like magnet-based air conditioning and personalized robots will transform how we fight climate change, save on energy costs and stay comfortable.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Future%20of%20Cool%20iTunes%20square_0.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/09/13/Episode%205_%20The%20Future%20of%20Cool.mp3" length="60327565" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/09/13/Episode%205_%20The%20Future%20of%20Cool.mp3</guid>
+      <pubDate>Wed, 14 Sep 2016 14:12:52 UTC</pubDate>
+      <itunes:duration>00:29:53</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 6: Energy Ghostbusters</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>Spooked by the goblins of energy inefficiency? In this episode, we talk with Josh Olsen, an “Energy Ghostbuster&quot; from our Weatherization Program. Learn how to keep from being haunted by your energy bill and trick-or-treat yourself to energy savings. </itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>Spooked by the ghosts and goblins of energy inefficiency? In this special episode, we talk with Josh Olsen, an “Energy Ghostbuster" from our Weatherization Assistance Program. He provides tips on how to keep from being haunted by your energy bill and trick-or-treat yourself to energy savings. Happy Halloween!</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/episode6-square.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/10/21/Episode%206_%20Energy%20Ghostbusters_0.mp3" length="25223546" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/10/21/Episode%206_%20Energy%20Ghostbusters_0.mp3</guid>
+      <pubDate>Thu, 20 Oct 2016 17:57:10 UTC</pubDate>
+      <itunes:duration>00:12:01</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 7: From Water to Wattage</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>Hydropower is America&#039;s oldest and largest source of clean, renewable energy. But can it grow to meet our changing needs? Follow our hosts on a journey from hydropower&#039;s origins to the new wave of technologies that could shape its future.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>Hydropower is America's oldest and largest source of clean, renewable energy. But can it grow to meet our changing needs? Follow our hosts on a journey from hydropower's origins to the new wave of technologies that could shape its future.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Ep7-square.png" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/11/04/Episode%207_%20From%20Water%20To%20Wattage.mp3" length="49905698" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/11/04/Episode%207_%20From%20Water%20To%20Wattage.mp3</guid>
+      <pubDate>Thu, 03 Nov 2016 18:31:36 UTC</pubDate>
+      <itunes:duration>00:33:24</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 8: Ho-Ho-How Holiday Lights Work</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>Why do holiday lights burn out all the time? We find out the answer, and do it in rhyme.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>Why do holiday lights burn out all the time? We find out the answer, and do it in rhyme.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Ep8-square.png" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2016/12/05/Episode%208_%20Ho-Ho-How%20Holiday%20Lights%20Work.mp3" length="12441187" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2016/12/05/Episode%208_%20Ho-Ho-How%20Holiday%20Lights%20Work.mp3</guid>
+      <pubDate>Thu, 01 Dec 2016 20:15:05 UTC</pubDate>
+      <itunes:duration>00:05:26</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 9: What Happened to Acid Rain?</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>Acid rain was one of the biggest environmental problems of the 20th century. We investigate why it’s a thing of the past -- and what it can teach us for tackling climate change.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>Acid rain was one of the biggest environmental problems of the 20th century. We investigate why it’s a thing of the past -- and what it can teach us for tackling climate change.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/What%20Happened%20to%20Acid%20Rain.jpg" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2017/01/05/Episode%209_%20What%20Happened%20to%20Acid%20Rain_.mp3" length="46976727" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2017/01/05/Episode%209_%20What%20Happened%20to%20Acid%20Rain_.mp3</guid>
+      <pubDate>Thu, 05 Jan 2017 22:18:44 UTC</pubDate>
+      <itunes:duration>00:23:07</itunes:duration>
+    </item>
+
+    <item>
+      <title>Episode 10: The Exit Interview</title>
+      <itunes:author>U.S. Department of Energy</itunes:author>
+      <itunes:subtitle>With the current presidential administration coming to a close, we asked a very special guest to share some thoughts on his time here at the Energy Department. It’s our boss, nuclear physicist and Secretary of Energy, Dr. Ernest Moniz.</itunes:subtitle>
+      <itunes:summary><![CDATA[ <p>With the current presidential administration coming to a close, we asked a very special guest to share some thoughts on his time here at the Energy Department. It’s our boss, nuclear physicist and Secretary of Energy, Dr. Ernest Moniz.</p>
+ ]]></itunes:summary>
+      <itunes:image href="https://energy.gov/sites/prod/files/podcasts/cover_art/Ep10-1400x1400.png" />
+      <enclosure url="https://energy.gov/sites/prod/files/podcasts/files/2017/01/16/Episode_10_Secretary%20Ernest_Moniz_The_Exit%20Interview.mp3" length="49836773" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://energy.gov/sites/prod/files/podcasts/files/2017/01/16/Episode_10_Secretary%20Ernest_Moniz_The_Exit%20Interview.mp3</guid>
+      <pubDate>Tue, 17 Jan 2017 05:01:00 UTC</pubDate>
+      <itunes:duration>00:24:26</itunes:duration>
+    </item>
+  </channel>
+</rss>
