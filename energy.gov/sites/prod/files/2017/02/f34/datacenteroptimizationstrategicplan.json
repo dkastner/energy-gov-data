@@ -1,0 +1,79 @@
+{
+  "optimizationMetrics": {
+    "facilityUtilization": {
+      "fy18OMBtarget": 80,
+      "fy16Planned": 42,
+      "fy16Achieved": 42,
+      "fy17Planned": 55,
+      "fy18Planned": 80,
+      "explanationForUnmetPlannedValue": "FY16 Targets Met"
+    },
+    "energyMetering": {
+      "fy18OMBtarget": 100,
+      "fy16Planned": 64,
+      "fy16Achieved": 64,
+      "fy17Planned": 75,
+      "fy18Planned": 100,
+      "explanationForUnmetPlannedValue": "FY16 Targets Met"
+    },
+    "pue": {
+      "fy18OMBtarget": 1.5,
+      "fy16Planned": 1.7,
+      "fy16Achieved": 1.7,
+      "fy17Planned": 1.6,
+      "fy18Planned": 1.5,
+      "explanationForUnmetPlannedValue": "FY16 Targets Met"
+    },
+    "virtualization": {
+      "fy18OMBtarget": 4,
+      "fy16Planned": 2.3,
+      "fy16Achieved": 2.3,
+      "fy17Planned": 3,
+      "fy18Planned": 4,
+      "explanationForUnmetPlannedValue": "FY16 Targets Met"
+    },
+    "tieredServerUtAutoMonitoring": {
+      "fy18OMBtarget": 65,
+      "fy16Planned": 3,
+      "fy16Achieved": 3,
+      "fy17Planned": 15,
+      "fy18Planned": 65,
+      "explanationForUnmetPlannedValue": "FY16 Targets Met"
+    },
+    "nontieredServerUtAutoMonitoring": {
+      "fy18OMBtarget": 65,
+      "fy16Planned": 7,
+      "fy16Achieved": 7,
+      "fy17Planned": 15,
+      "fy18Planned": 65,
+      "explanationForUnmetPlannedValue": "FY16 Targets Met"
+    }
+  },
+  "tieredClosures": {
+    "fy18OMBtarget": 0,
+    "fy16Planned": 0,
+    "fy16Achieved": 0,
+    "fy17Planned": 0,
+    "fy18Planned": 0,
+    "explanationForUnmetPlannedValue": "FY16 Targets Met"
+  },
+  "nontieredClosures": {
+    "fy18OMBtarget": 25,
+    "fy16Planned": 2,
+    "fy16Achieved": 2,
+    "fy17Planned": 6,
+    "fy18Planned": 25,
+    "explanationForUnmetPlannedValue": "FY16 Targets Met"
+  },
+  "costSavings": {
+    "fy18OMBtarget": 0,
+    "fy16Planned": 0,
+    "fy16Achieved": 1067,
+    "fy17Planned": 0,
+    "fy18Planned": 0,
+    "explanationForUnmetPlannedValue": "FY16 Targets Exceeded",
+    "costsOfClosures": "This data will be requested in future data center inventory data calls and reported in the next Strategic Plan update",
+    "costsOfOptimization": "This data will be requested in future data center inventory data calls and reported in the next Strategic Plan update",
+    "historicalCostSavings": "DOE has captured the following historical cost savings/avoidance:  2010-2012 - $10,578,172;  2013 - $3,205,245;  2014 – $1,476,733; and 2015 – $3,126,748 for a total of $18,391,939"
+  }
+}
